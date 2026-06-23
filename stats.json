@@ -1,1 +1,38 @@
-{"leetcode":{"easy":0,"hard":0,"medium":1,"shas":{"0003-longest-substring-without-repeating-characters":{"0003-longest-substring-without-repeating-characters.cpp":"c7e828d86945a3e0cb369bce2ae5840a1b672243","README.md":"a2913fddb99d478cc9f1dcecc24aad98e667f526","difficulty":"medium"},"README.md":{"":"552de77d4136221fe4d51291c2b3323e5db72e6f"}},"solved":1}}
+{
+  "leetcode": {
+    "easy": 0,
+    "hard": 0,
+    "medium": 1,
+    "shas": {
+      "0003-longest-substring-without-repeating-characters": {
+        "0003-longest-substring-without-repeating-characters.cpp": "c7e828d86945a3e0cb369bce2ae5840a1b672243",
+        "README.md": "a2913fddb99d478cc9f1dcecc24aad98e667f526",
+        "difficulty": "medium"
+      },
+      "README.md": {
+        "": "552de77d4136221fe4d51291c2b3323e5db72e6f"
+      }
+    },
+    "solved": 1
+  },
+  "syncedProblems": {
+    "LeetCode_Zigzag_Conversion": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 0,
+    "medium": 1,
+    "hard": 0,
+    "basic": 0
+  },
+  "todayProblems": [
+    "Zigzag Conversion"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-23",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-06-23": 1
+  }
+}
