@@ -19,25 +19,26 @@
     "LeetCode_Zigzag_Conversion": true,
     "GeeksForGeeks_Peak_element": true,
     "GeeksForGeeks_Rat_Maze_With_Multiple_Jumps": true,
-    "LeetCode_Number_of_ZigZag_Arrays_II": true
+    "LeetCode_Number_of_ZigZag_Arrays_II": true,
+    "GeeksForGeeks_N-Digit_Numbers_with_Increasing_Digits": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Rat Maze With Multiple Jumps",
-    "Number of ZigZag Arrays II"
+    "N-Digit Numbers with Increasing Digits"
   ],
-  "currentStreak": 2,
-  "todayCount": 2,
-  "lastSyncDate": "2026-06-24",
-  "maxStreak": 2,
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-25",
+  "maxStreak": 3,
   "activityHistory": {
     "2026-06-23": 2,
-    "2026-06-24": 2
+    "2026-06-24": 2,
+    "2026-06-25": 1
   }
 }
