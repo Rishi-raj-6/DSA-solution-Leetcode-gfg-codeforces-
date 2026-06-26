@@ -22,26 +22,28 @@
     "LeetCode_Number_of_ZigZag_Arrays_II": true,
     "GeeksForGeeks_N-Digit_Numbers_with_Increasing_Digits": true,
     "LeetCode_Count_Subarrays_With_Majority_Element_I": true,
-    "GeeksForGeeks_Count_Matching_Subsequences": true
+    "GeeksForGeeks_Count_Matching_Subsequences": true,
+    "LeetCode_Count_Subarrays_With_Majority_Element_II": true
   },
-  "totalSolved": 7,
+  "totalSolved": 8,
   "difficultyCounts": {
     "easy": 0,
     "medium": 6,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Count Matching Subsequences"
+    "Count Matching Subsequences",
+    "Count Subarrays With Majority Element II"
   ],
   "currentStreak": 4,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-26",
   "maxStreak": 4,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
     "2026-06-25": 2,
-    "2026-06-26": 1
+    "2026-06-26": 2
   }
 }
