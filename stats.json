@@ -26,29 +26,30 @@
     "LeetCode_Count_Subarrays_With_Majority_Element_II": true,
     "GeeksForGeeks_Ways_to_Tile_the_Floor": true,
     "LeetCode_Find_the_Maximum_Number_of_Elements_in_Subset": true,
-    "GeeksForGeeks_k_Times_Appearing_Adjacent_Two_1's": true
+    "GeeksForGeeks_k_Times_Appearing_Adjacent_Two_1's": true,
+    "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true
   },
-  "totalSolved": 11,
+  "totalSolved": 12,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 9,
+    "medium": 10,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Find the Maximum Number of Elements in Subset",
-    "k Times Appearing Adjacent Two 1's"
+    "Maximum Element After Decreasing and Rearranging"
   ],
-  "currentStreak": 6,
-  "todayCount": 2,
-  "lastSyncDate": "2026-06-28",
-  "maxStreak": 6,
+  "currentStreak": 7,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-29",
+  "maxStreak": 7,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
     "2026-06-25": 2,
     "2026-06-26": 2,
     "2026-06-27": 1,
-    "2026-06-28": 2
+    "2026-06-28": 2,
+    "2026-06-29": 1
   }
 }
