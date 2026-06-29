@@ -28,21 +28,23 @@
     "LeetCode_Find_the_Maximum_Number_of_Elements_in_Subset": true,
     "GeeksForGeeks_k_Times_Appearing_Adjacent_Two_1's": true,
     "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true,
-    "GeeksForGeeks_Max_Dot_Product_with_0_Insertions": true
+    "GeeksForGeeks_Max_Dot_Product_with_0_Insertions": true,
+    "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true
   },
-  "totalSolved": 13,
+  "totalSolved": 14,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 11,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
     "Maximum Element After Decreasing and Rearranging",
-    "Max Dot Product with 0 Insertions"
+    "Max Dot Product with 0 Insertions",
+    "Number of Strings That Appear as Substrings in Word"
   ],
   "currentStreak": 7,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-29",
   "maxStreak": 7,
   "activityHistory": {
@@ -52,6 +54,6 @@
     "2026-06-26": 2,
     "2026-06-27": 1,
     "2026-06-28": 2,
-    "2026-06-29": 2
+    "2026-06-29": 3
   }
 }
