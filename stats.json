@@ -30,20 +30,22 @@
     "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true,
     "GeeksForGeeks_Max_Dot_Product_with_0_Insertions": true,
     "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true,
-    "GeeksForGeeks_Minimum_Insert_and_Delete_to_Convert": true
+    "GeeksForGeeks_Minimum_Insert_and_Delete_to_Convert": true,
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
   },
-  "totalSolved": 15,
+  "totalSolved": 16,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 11,
+    "medium": 12,
     "hard": 3,
     "basic": 0
   },
   "todayProblems": [
-    "Minimum Insert and Delete to Convert"
+    "Minimum Insert and Delete to Convert",
+    "Number of Substrings Containing All Three Characters"
   ],
   "currentStreak": 8,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 8,
   "activityHistory": {
@@ -54,6 +56,6 @@
     "2026-06-27": 1,
     "2026-06-28": 2,
     "2026-06-29": 3,
-    "2026-06-30": 1
+    "2026-06-30": 2
   }
 }
