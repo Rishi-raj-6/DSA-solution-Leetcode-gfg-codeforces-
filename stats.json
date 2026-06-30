@@ -31,23 +31,23 @@
     "GeeksForGeeks_Max_Dot_Product_with_0_Insertions": true,
     "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true,
     "GeeksForGeeks_Minimum_Insert_and_Delete_to_Convert": true,
-    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
+    "GeeksForGeeks_Max_sum_subarray_by_removing_at_most_one_element": true
   },
-  "totalSolved": 16,
+  "totalSolved": 17,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 12,
+    "medium": 13,
     "hard": 3,
     "basic": 0
   },
   "todayProblems": [
-    "Minimum Insert and Delete to Convert",
-    "Number of Substrings Containing All Three Characters"
+    "Max sum subarray by removing at most one element"
   ],
-  "currentStreak": 8,
-  "todayCount": 2,
-  "lastSyncDate": "2026-06-30",
-  "maxStreak": 8,
+  "currentStreak": 9,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-01",
+  "maxStreak": 9,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -56,6 +56,7 @@
     "2026-06-27": 1,
     "2026-06-28": 2,
     "2026-06-29": 3,
-    "2026-06-30": 2
+    "2026-06-30": 2,
+    "2026-07-01": 1
   }
 }
