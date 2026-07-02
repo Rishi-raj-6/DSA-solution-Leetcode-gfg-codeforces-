@@ -35,24 +35,23 @@
     "GeeksForGeeks_Max_sum_subarray_by_removing_at_most_one_element": true,
     "LeetCode_Find_the_Safest_Path_in_a_Grid": true,
     "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true,
-    "LeetCode_Find_a_Safe_Walk_Through_a_Grid": true
+    "LeetCode_Find_a_Safe_Walk_Through_a_Grid": true,
+    "GeeksForGeeks_Ways_to_Increase_LCS_by_One": true
   },
-  "totalSolved": 20,
+  "totalSolved": 21,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 16,
+    "medium": 17,
     "hard": 3,
     "basic": 0
   },
   "todayProblems": [
-    "Find the Safest Path in a Grid",
-    "Check Subset sum divisible by k",
-    "Find a Safe Walk Through a Grid"
+    "Ways to Increase LCS by One"
   ],
-  "currentStreak": 10,
-  "todayCount": 3,
-  "lastSyncDate": "2026-07-02",
-  "maxStreak": 10,
+  "currentStreak": 11,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-03",
+  "maxStreak": 11,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -63,6 +62,7 @@
     "2026-06-29": 3,
     "2026-06-30": 2,
     "2026-07-01": 1,
-    "2026-07-02": 3
+    "2026-07-02": 3,
+    "2026-07-03": 1
   }
 }
