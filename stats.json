@@ -34,21 +34,23 @@
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
     "GeeksForGeeks_Max_sum_subarray_by_removing_at_most_one_element": true,
     "LeetCode_Find_the_Safest_Path_in_a_Grid": true,
-    "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true
+    "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true,
+    "LeetCode_Find_a_Safe_Walk_Through_a_Grid": true
   },
-  "totalSolved": 19,
+  "totalSolved": 20,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 15,
+    "medium": 16,
     "hard": 3,
     "basic": 0
   },
   "todayProblems": [
     "Find the Safest Path in a Grid",
-    "Check Subset sum divisible by k"
+    "Check Subset sum divisible by k",
+    "Find a Safe Walk Through a Grid"
   ],
   "currentStreak": 10,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-02",
   "maxStreak": 10,
   "activityHistory": {
@@ -61,6 +63,6 @@
     "2026-06-29": 3,
     "2026-06-30": 2,
     "2026-07-01": 1,
-    "2026-07-02": 2
+    "2026-07-02": 3
   }
 }

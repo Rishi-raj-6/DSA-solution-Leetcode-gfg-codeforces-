@@ -19,3 +19,4 @@
 | 17 | [Max sum subarray by removing at most one element](./GeeksForGeeks/Medium/Max%20sum%20subarray%20by%20removing%20at%20most%20one%20element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1) | Medium | 01 Jul 2026 | 12:17 am |
 | 18 | [Find the Safest Path in a Grid](./LeetCode/Medium/Find%20the%20Safest%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | 02 Jul 2026 | 12:08 am |
 | 19 | [Check Subset sum divisible by k](./GeeksForGeeks/Medium/Check%20Subset%20sum%20divisible%20by%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m2546/1) | Medium | 02 Jul 2026 | 01:01 am |
+| 20 | [Find a Safe Walk Through a Grid](./LeetCode/Medium/Find%20a%20Safe%20Walk%20Through%20a%20Grid) | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | 02 Jul 2026 | 08:22 pm |
