@@ -21,3 +21,4 @@
 | 19 | [Check Subset sum divisible by k](./GeeksForGeeks/Medium/Check%20Subset%20sum%20divisible%20by%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m2546/1) | Medium | 02 Jul 2026 | 01:01 am |
 | 20 | [Find a Safe Walk Through a Grid](./LeetCode/Medium/Find%20a%20Safe%20Walk%20Through%20a%20Grid) | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | 02 Jul 2026 | 08:22 pm |
 | 21 | [Ways to Increase LCS by One](./GeeksForGeeks/Medium/Ways%20to%20Increase%20LCS%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-ways-to-increase-lcs-length-of-two-strings-by-one2236/1) | Medium | 03 Jul 2026 | 12:45 am |
+| 22 | [Network Recovery Pathways](./LeetCode/Hard/Network%20Recovery%20Pathways) | [LeetCode](https://leetcode.com/problems/network-recovery-pathways/) | Hard | 03 Jul 2026 | 05:37 pm |
