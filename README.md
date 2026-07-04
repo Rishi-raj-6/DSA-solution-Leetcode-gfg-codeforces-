@@ -23,3 +23,4 @@
 | 21 | [Ways to Increase LCS by One](./GeeksForGeeks/Medium/Ways%20to%20Increase%20LCS%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-ways-to-increase-lcs-length-of-two-strings-by-one2236/1) | Medium | 03 Jul 2026 | 12:45 am |
 | 22 | [Network Recovery Pathways](./LeetCode/Hard/Network%20Recovery%20Pathways) | [LeetCode](https://leetcode.com/problems/network-recovery-pathways/) | Hard | 03 Jul 2026 | 05:37 pm |
 | 23 | [Substrings with more 1's than 0's](./GeeksForGeeks/Hard/Substrings%20with%20more%201's%20than%200's) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-substring--170645/1) | Hard | 04 Jul 2026 | 07:33 pm |
+| 24 | [Minimum Score of a Path Between Two Cities](./LeetCode/Medium/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities) | [LeetCode](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | 04 Jul 2026 | 09:01 pm |

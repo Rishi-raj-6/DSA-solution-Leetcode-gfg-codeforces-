@@ -38,20 +38,22 @@
     "LeetCode_Find_a_Safe_Walk_Through_a_Grid": true,
     "GeeksForGeeks_Ways_to_Increase_LCS_by_One": true,
     "LeetCode_Network_Recovery_Pathways": true,
-    "GeeksForGeeks_Substrings_with_more_1's_than_0's": true
+    "GeeksForGeeks_Substrings_with_more_1's_than_0's": true,
+    "LeetCode_Minimum_Score_of_a_Path_Between_Two_Cities": true
   },
-  "totalSolved": 23,
+  "totalSolved": 24,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 17,
+    "medium": 18,
     "hard": 5,
     "basic": 0
   },
   "todayProblems": [
-    "Substrings with more 1's than 0's"
+    "Substrings with more 1's than 0's",
+    "Minimum Score of a Path Between Two Cities"
   ],
   "currentStreak": 12,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-04",
   "maxStreak": 12,
   "activityHistory": {
@@ -66,6 +68,6 @@
     "2026-07-01": 1,
     "2026-07-02": 3,
     "2026-07-03": 2,
-    "2026-07-04": 1
+    "2026-07-04": 2
   }
 }
