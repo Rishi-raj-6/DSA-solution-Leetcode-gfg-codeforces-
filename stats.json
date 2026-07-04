@@ -37,23 +37,23 @@
     "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true,
     "LeetCode_Find_a_Safe_Walk_Through_a_Grid": true,
     "GeeksForGeeks_Ways_to_Increase_LCS_by_One": true,
-    "LeetCode_Network_Recovery_Pathways": true
+    "LeetCode_Network_Recovery_Pathways": true,
+    "GeeksForGeeks_Substrings_with_more_1's_than_0's": true
   },
-  "totalSolved": 22,
+  "totalSolved": 23,
   "difficultyCounts": {
     "easy": 1,
     "medium": 17,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "todayProblems": [
-    "Ways to Increase LCS by One",
-    "Network Recovery Pathways"
+    "Substrings with more 1's than 0's"
   ],
-  "currentStreak": 11,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-03",
-  "maxStreak": 11,
+  "currentStreak": 12,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-04",
+  "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -65,6 +65,7 @@
     "2026-06-30": 2,
     "2026-07-01": 1,
     "2026-07-02": 3,
-    "2026-07-03": 2
+    "2026-07-03": 2,
+    "2026-07-04": 1
   }
 }
