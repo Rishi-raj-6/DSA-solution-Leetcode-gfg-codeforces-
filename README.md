@@ -26,3 +26,4 @@
 | 24 | [Minimum Score of a Path Between Two Cities](./LeetCode/Medium/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities) | [LeetCode](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | 04 Jul 2026 | 09:01 pm |
 | 25 | [Number of Paths with Max Score](./LeetCode/Hard/Number%20of%20Paths%20with%20Max%20Score) | [LeetCode](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard | 06 Jul 2026 | 12:21 am |
 | 26 | [Max Sum Path in Two Arrays](./GeeksForGeeks/Medium/Max%20Sum%20Path%20in%20Two%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) | Medium | 06 Jul 2026 | 12:24 am |
+| 27 | [Max Gap Between Two Same](./GeeksForGeeks/Easy/Max%20Gap%20Between%20Two%20Same) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-number-of-characters-between-any-two-same-character4552/1) | Easy | 06 Jul 2026 | 12:25 am |
