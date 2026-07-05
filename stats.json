@@ -40,20 +40,22 @@
     "LeetCode_Network_Recovery_Pathways": true,
     "GeeksForGeeks_Substrings_with_more_1's_than_0's": true,
     "LeetCode_Minimum_Score_of_a_Path_Between_Two_Cities": true,
-    "LeetCode_Number_of_Paths_with_Max_Score": true
+    "LeetCode_Number_of_Paths_with_Max_Score": true,
+    "GeeksForGeeks_Max_Sum_Path_in_Two_Arrays": true
   },
-  "totalSolved": 25,
+  "totalSolved": 26,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 18,
+    "medium": 19,
     "hard": 6,
     "basic": 0
   },
   "todayProblems": [
-    "Number of Paths with Max Score"
+    "Number of Paths with Max Score",
+    "Max Sum Path in Two Arrays"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-06",
   "maxStreak": 12,
   "activityHistory": {
@@ -69,6 +71,6 @@
     "2026-07-02": 3,
     "2026-07-03": 2,
     "2026-07-04": 2,
-    "2026-07-06": 1
+    "2026-07-06": 2
   }
 }

@@ -25,3 +25,4 @@
 | 23 | [Substrings with more 1's than 0's](./GeeksForGeeks/Hard/Substrings%20with%20more%201's%20than%200's) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-substring--170645/1) | Hard | 04 Jul 2026 | 07:33 pm |
 | 24 | [Minimum Score of a Path Between Two Cities](./LeetCode/Medium/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities) | [LeetCode](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | 04 Jul 2026 | 09:01 pm |
 | 25 | [Number of Paths with Max Score](./LeetCode/Hard/Number%20of%20Paths%20with%20Max%20Score) | [LeetCode](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard | 06 Jul 2026 | 12:21 am |
+| 26 | [Max Sum Path in Two Arrays](./GeeksForGeeks/Medium/Max%20Sum%20Path%20in%20Two%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) | Medium | 06 Jul 2026 | 12:24 am |
