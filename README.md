@@ -30,3 +30,4 @@
 | 28 | [Remove Covered Intervals](./LeetCode/Medium/Remove%20Covered%20Intervals) | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | Medium | 06 Jul 2026 | 05:46 pm |
 | 29 | [Largest Unblocked Submatrix](./GeeksForGeeks/Medium/Largest%20Unblocked%20Submatrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-unblocked-submatrix/1) | Medium | 07 Jul 2026 | 09:08 pm |
 | 30 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 08 Jul 2026 | 02:51 am |
+| 31 | [Towers Reaching Both Stations](./GeeksForGeeks/Medium/Towers%20Reaching%20Both%20Stations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-island--170646/1) | Medium | 08 Jul 2026 | 11:13 pm |
