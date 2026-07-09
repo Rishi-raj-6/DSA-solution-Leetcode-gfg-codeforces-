@@ -33,3 +33,4 @@
 | 31 | [Towers Reaching Both Stations](./GeeksForGeeks/Medium/Towers%20Reaching%20Both%20Stations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-island--170646/1) | Medium | 08 Jul 2026 | 11:13 pm |
 | 32 | [Concatenate Non-Zero Digits and Multiply by Sum II](./LeetCode/Medium/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | 09 Jul 2026 | 03:32 am |
 | 33 | [Count Pairs Divisible By K](./GeeksForGeeks/Medium/Count%20Pairs%20Divisible%20By%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | Medium | 09 Jul 2026 | 10:35 pm |
+| 34 | [Path Existence Queries in a Graph I](./LeetCode/Medium/Path%20Existence%20Queries%20in%20a%20Graph%20I) | [LeetCode](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Medium | 10 Jul 2026 | 03:45 am |

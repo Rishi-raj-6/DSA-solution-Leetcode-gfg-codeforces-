@@ -48,22 +48,22 @@
     "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true,
     "GeeksForGeeks_Towers_Reaching_Both_Stations": true,
     "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true,
-    "GeeksForGeeks_Count_Pairs_Divisible_By_K": true
+    "GeeksForGeeks_Count_Pairs_Divisible_By_K": true,
+    "LeetCode_Path_Existence_Queries_in_a_Graph_I": true
   },
-  "totalSolved": 33,
+  "totalSolved": 34,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 24,
+    "medium": 25,
     "hard": 6,
     "basic": 0
   },
   "todayProblems": [
-    "Concatenate Non-Zero Digits and Multiply by Sum II",
-    "Count Pairs Divisible By K"
+    "Path Existence Queries in a Graph I"
   ],
-  "currentStreak": 4,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-09",
+  "currentStreak": 5,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-10",
   "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
@@ -81,6 +81,7 @@
     "2026-07-06": 4,
     "2026-07-07": 1,
     "2026-07-08": 2,
-    "2026-07-09": 2
+    "2026-07-09": 2,
+    "2026-07-10": 1
   }
 }
