@@ -35,3 +35,4 @@
 | 33 | [Count Pairs Divisible By K](./GeeksForGeeks/Medium/Count%20Pairs%20Divisible%20By%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | Medium | 09 Jul 2026 | 10:35 pm |
 | 34 | [Path Existence Queries in a Graph I](./LeetCode/Medium/Path%20Existence%20Queries%20in%20a%20Graph%20I) | [LeetCode](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Medium | 10 Jul 2026 | 03:45 am |
 | 35 | [Ways to Express as Sum of Consecutives](./GeeksForGeeks/Medium/Ways%20to%20Express%20as%20Sum%20of%20Consecutives) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1) | Medium | 10 Jul 2026 | 05:24 pm |
+| 36 | [Path Existence Queries in a Graph II](./LeetCode/Hard/Path%20Existence%20Queries%20in%20a%20Graph%20II) | [LeetCode](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Hard | 10 Jul 2026 | 06:47 pm |

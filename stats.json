@@ -50,21 +50,23 @@
     "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true,
     "GeeksForGeeks_Count_Pairs_Divisible_By_K": true,
     "LeetCode_Path_Existence_Queries_in_a_Graph_I": true,
-    "GeeksForGeeks_Ways_to_Express_as_Sum_of_Consecutives": true
+    "GeeksForGeeks_Ways_to_Express_as_Sum_of_Consecutives": true,
+    "LeetCode_Path_Existence_Queries_in_a_Graph_II": true
   },
-  "totalSolved": 35,
+  "totalSolved": 36,
   "difficultyCounts": {
     "easy": 3,
     "medium": 26,
-    "hard": 6,
+    "hard": 7,
     "basic": 0
   },
   "todayProblems": [
     "Path Existence Queries in a Graph I",
-    "Ways to Express as Sum of Consecutives"
+    "Ways to Express as Sum of Consecutives",
+    "Path Existence Queries in a Graph II"
   ],
   "currentStreak": 5,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-10",
   "maxStreak": 12,
   "activityHistory": {
@@ -84,6 +86,6 @@
     "2026-07-07": 1,
     "2026-07-08": 2,
     "2026-07-09": 2,
-    "2026-07-10": 2
+    "2026-07-10": 3
   }
 }
