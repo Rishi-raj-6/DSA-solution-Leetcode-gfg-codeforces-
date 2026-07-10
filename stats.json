@@ -51,23 +51,22 @@
     "GeeksForGeeks_Count_Pairs_Divisible_By_K": true,
     "LeetCode_Path_Existence_Queries_in_a_Graph_I": true,
     "GeeksForGeeks_Ways_to_Express_as_Sum_of_Consecutives": true,
-    "LeetCode_Path_Existence_Queries_in_a_Graph_II": true
+    "LeetCode_Path_Existence_Queries_in_a_Graph_II": true,
+    "GeeksForGeeks_Longest_Possible_Route_in_a_Matrix_with_Hurdles": true
   },
-  "totalSolved": 36,
+  "totalSolved": 37,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 26,
+    "medium": 27,
     "hard": 7,
     "basic": 0
   },
   "todayProblems": [
-    "Path Existence Queries in a Graph I",
-    "Ways to Express as Sum of Consecutives",
-    "Path Existence Queries in a Graph II"
+    "Longest Possible Route in a Matrix with Hurdles"
   ],
-  "currentStreak": 5,
-  "todayCount": 3,
-  "lastSyncDate": "2026-07-10",
+  "currentStreak": 6,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-11",
   "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
@@ -86,6 +85,7 @@
     "2026-07-07": 1,
     "2026-07-08": 2,
     "2026-07-09": 2,
-    "2026-07-10": 3
+    "2026-07-10": 3,
+    "2026-07-11": 1
   }
 }
