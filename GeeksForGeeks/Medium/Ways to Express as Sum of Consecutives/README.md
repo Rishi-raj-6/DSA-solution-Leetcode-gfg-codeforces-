@@ -1,0 +1,21 @@
+# Ways to Express as Sum of Consecutives
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1)
+
+## Solved On
+10 Jul 2026 at 05:24 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1">Ways to Express as Sum of Consecutives</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given a number <strong>n</strong>, find the number of ways to represent this number as a sum of 2 or more consecutive natural numbers.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong> <span style="font-size: 14pt;">n</span></span><span style="font-size: 18px;"><strong> = </strong>10</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">1</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong></span><span style="font-size: 18px;">There is only one way, 10 = 1+2+3+4.</span></pre>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><strong> </strong><span style="font-size: 14pt;">n</span></span><span style="font-size: 18px;"><strong> = </strong>15</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">3</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong></span><span style="font-size: 18px;">There are 3 ways, (15 = 1+2+3+4+5), (15 = 4+5+6) and (15 = 7+8).</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong></span><br><span style="font-size: 18px;">1<span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;"> ≤</span>&nbsp;n <span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;">≤</span>&nbsp;10<sup>8</sup></span></p>
