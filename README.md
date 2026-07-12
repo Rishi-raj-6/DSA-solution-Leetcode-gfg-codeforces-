@@ -39,3 +39,4 @@
 | 37 | [Longest Possible Route in a Matrix with Hurdles](./GeeksForGeeks/Medium/Longest%20Possible%20Route%20in%20a%20Matrix%20with%20Hurdles) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1) | Medium | 11 Jul 2026 | 02:07 am |
 | 38 | [Count the Number of Complete Components](./LeetCode/Medium/Count%20the%20Number%20of%20Complete%20Components) | [LeetCode](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | 11 Jul 2026 | 04:20 pm |
 | 39 | [Max Amount by Selling K Tickets](./GeeksForGeeks/Medium/Max%20Amount%20by%20Selling%20K%20Tickets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ticket-sellers3241/1) | Medium | 12 Jul 2026 | 01:27 am |
+| 40 | [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | 13 Jul 2026 | 04:06 am |
