@@ -55,20 +55,22 @@
     "GeeksForGeeks_Longest_Possible_Route_in_a_Matrix_with_Hurdles": true,
     "LeetCode_Count_the_Number_of_Complete_Components": true,
     "GeeksForGeeks_Max_Amount_by_Selling_K_Tickets": true,
-    "LeetCode_Rank_Transform_of_an_Array": true
+    "LeetCode_Rank_Transform_of_an_Array": true,
+    "GeeksForGeeks_Rearrange_the_Array": true
   },
-  "totalSolved": 40,
+  "totalSolved": 41,
   "difficultyCounts": {
     "easy": 4,
     "medium": 29,
-    "hard": 7,
+    "hard": 8,
     "basic": 0
   },
   "todayProblems": [
-    "Rank Transform of an Array"
+    "Rank Transform of an Array",
+    "Rearrange the Array"
   ],
   "currentStreak": 8,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-13",
   "maxStreak": 12,
   "activityHistory": {
@@ -91,6 +93,6 @@
     "2026-07-10": 3,
     "2026-07-11": 2,
     "2026-07-12": 1,
-    "2026-07-13": 1
+    "2026-07-13": 2
   }
 }
