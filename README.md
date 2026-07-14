@@ -42,3 +42,4 @@
 | 40 | [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | 13 Jul 2026 | 04:06 am |
 | 41 | [Rearrange the Array](./GeeksForGeeks/Hard/Rearrange%20the%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rearrange-the-array-1639032648/1) | Hard | 13 Jul 2026 | 07:00 pm |
 | 42 | [Smallest Non-Zero Number](./GeeksForGeeks/Medium/Smallest%20Non-Zero%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-smallest-non-zero-number4510/1) | Medium | 14 Jul 2026 | 08:34 pm |
+| 43 | [Find the Number of Subsequences With Equal GCD](./LeetCode/Hard/Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD) | [LeetCode](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard | 15 Jul 2026 | 02:21 am |

@@ -57,21 +57,22 @@
     "GeeksForGeeks_Max_Amount_by_Selling_K_Tickets": true,
     "LeetCode_Rank_Transform_of_an_Array": true,
     "GeeksForGeeks_Rearrange_the_Array": true,
-    "GeeksForGeeks_Smallest_Non-Zero_Number": true
+    "GeeksForGeeks_Smallest_Non-Zero_Number": true,
+    "LeetCode_Find_the_Number_of_Subsequences_With_Equal_GCD": true
   },
-  "totalSolved": 42,
+  "totalSolved": 43,
   "difficultyCounts": {
     "easy": 4,
     "medium": 30,
-    "hard": 8,
+    "hard": 9,
     "basic": 0
   },
   "todayProblems": [
-    "Smallest Non-Zero Number"
+    "Find the Number of Subsequences With Equal GCD"
   ],
-  "currentStreak": 9,
+  "currentStreak": 10,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-14",
+  "lastSyncDate": "2026-07-15",
   "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
@@ -94,6 +95,7 @@
     "2026-07-11": 2,
     "2026-07-12": 1,
     "2026-07-13": 2,
-    "2026-07-14": 1
+    "2026-07-14": 1,
+    "2026-07-15": 1
   }
 }
