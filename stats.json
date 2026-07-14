@@ -56,22 +56,22 @@
     "LeetCode_Count_the_Number_of_Complete_Components": true,
     "GeeksForGeeks_Max_Amount_by_Selling_K_Tickets": true,
     "LeetCode_Rank_Transform_of_an_Array": true,
-    "GeeksForGeeks_Rearrange_the_Array": true
+    "GeeksForGeeks_Rearrange_the_Array": true,
+    "GeeksForGeeks_Smallest_Non-Zero_Number": true
   },
-  "totalSolved": 41,
+  "totalSolved": 42,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 29,
+    "medium": 30,
     "hard": 8,
     "basic": 0
   },
   "todayProblems": [
-    "Rank Transform of an Array",
-    "Rearrange the Array"
+    "Smallest Non-Zero Number"
   ],
-  "currentStreak": 8,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-13",
+  "currentStreak": 9,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-14",
   "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
@@ -93,6 +93,7 @@
     "2026-07-10": 3,
     "2026-07-11": 2,
     "2026-07-12": 1,
-    "2026-07-13": 2
+    "2026-07-13": 2,
+    "2026-07-14": 1
   }
 }
