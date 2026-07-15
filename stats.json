@@ -60,23 +60,22 @@
     "GeeksForGeeks_Smallest_Non-Zero_Number": true,
     "LeetCode_Find_the_Number_of_Subsequences_With_Equal_GCD": true,
     "GeeksForGeeks_Longest_Bitonic_Subarray": true,
-    "LeetCode_GCD_of_Odd_and_Even_Sums": true
+    "LeetCode_GCD_of_Odd_and_Even_Sums": true,
+    "Codeforces_2241A_-_Divide_and_Conquer": true
   },
-  "totalSolved": 45,
+  "totalSolved": 46,
   "difficultyCounts": {
     "easy": 5,
     "medium": 31,
     "hard": 9,
-    "basic": 0
+    "basic": 1
   },
   "todayProblems": [
-    "Find the Number of Subsequences With Equal GCD",
-    "Longest Bitonic Subarray",
-    "GCD of Odd and Even Sums"
+    "2241A - Divide and Conquer"
   ],
-  "currentStreak": 10,
-  "todayCount": 3,
-  "lastSyncDate": "2026-07-15",
+  "currentStreak": 11,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-16",
   "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
@@ -100,6 +99,7 @@
     "2026-07-12": 1,
     "2026-07-13": 2,
     "2026-07-14": 1,
-    "2026-07-15": 3
+    "2026-07-15": 3,
+    "2026-07-16": 1
   }
 }
