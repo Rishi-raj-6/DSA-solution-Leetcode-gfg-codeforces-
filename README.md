@@ -47,3 +47,4 @@
 | 45 | [GCD of Odd and Even Sums](./LeetCode/Easy/GCD%20of%20Odd%20and%20Even%20Sums) | [LeetCode](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | 15 Jul 2026 | 11:57 pm |
 | 46 | [2241A - Divide and Conquer](./Codeforces/basic/2241A%20-%20Divide%20and%20Conquer) | [Codeforces](https://codeforces.com/problemset/problem/2241/A) | basic | 16 Jul 2026 | 12:02 am |
 | 47 | [2072A - New World New Me New Array](./Codeforces/basic/2072A%20-%20New%20World%20New%20Me%20New%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2072/A) | basic | 16 Jul 2026 | 12:02 am |
+| 48 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 16 Jul 2026 | 12:02 am |
