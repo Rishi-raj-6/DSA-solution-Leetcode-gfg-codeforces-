@@ -59,21 +59,23 @@
     "GeeksForGeeks_Rearrange_the_Array": true,
     "GeeksForGeeks_Smallest_Non-Zero_Number": true,
     "LeetCode_Find_the_Number_of_Subsequences_With_Equal_GCD": true,
-    "GeeksForGeeks_Longest_Bitonic_Subarray": true
+    "GeeksForGeeks_Longest_Bitonic_Subarray": true,
+    "LeetCode_GCD_of_Odd_and_Even_Sums": true
   },
-  "totalSolved": 44,
+  "totalSolved": 45,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 31,
     "hard": 9,
     "basic": 0
   },
   "todayProblems": [
     "Find the Number of Subsequences With Equal GCD",
-    "Longest Bitonic Subarray"
+    "Longest Bitonic Subarray",
+    "GCD of Odd and Even Sums"
   ],
   "currentStreak": 10,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-15",
   "maxStreak": 12,
   "activityHistory": {
@@ -98,6 +100,6 @@
     "2026-07-12": 1,
     "2026-07-13": 2,
     "2026-07-14": 1,
-    "2026-07-15": 2
+    "2026-07-15": 3
   }
 }
