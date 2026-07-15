@@ -43,3 +43,4 @@
 | 41 | [Rearrange the Array](./GeeksForGeeks/Hard/Rearrange%20the%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rearrange-the-array-1639032648/1) | Hard | 13 Jul 2026 | 07:00 pm |
 | 42 | [Smallest Non-Zero Number](./GeeksForGeeks/Medium/Smallest%20Non-Zero%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-smallest-non-zero-number4510/1) | Medium | 14 Jul 2026 | 08:34 pm |
 | 43 | [Find the Number of Subsequences With Equal GCD](./LeetCode/Hard/Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD) | [LeetCode](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard | 15 Jul 2026 | 02:21 am |
+| 44 | [Longest Bitonic Subarray](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | Medium | 15 Jul 2026 | 06:37 pm |
