@@ -50,3 +50,4 @@
 | 48 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 16 Jul 2026 | 12:02 am |
 | 49 | [1915B - Not Quite Latin Square](./Codeforces/basic/1915B%20-%20Not%20Quite%20Latin%20Square) | [Codeforces](https://codeforces.com/problemset/problem/1915/B) | basic | 16 Jul 2026 | 12:02 am |
 | 50 | [2242B - Predominant Frequency Division](./Codeforces/basic/2242B%20-%20Predominant%20Frequency%20Division) | [Codeforces](https://codeforces.com/problemset/problem/2242/B) | basic | 16 Jul 2026 | 12:02 am |
+| 51 | [Numbers with Given Digit Sum](./GeeksForGeeks/Medium/Numbers%20with%20Given%20Digit%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-of-n-digit-numbers-whose-sum-of-digits-equals-to-given-sum0733/1) | Medium | 16 Jul 2026 | 01:43 am |

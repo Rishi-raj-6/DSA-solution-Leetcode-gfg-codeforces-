@@ -65,12 +65,13 @@
     "Codeforces_2072A_-_New_World_New_Me_New_Array": true,
     "Codeforces_1877A_-_Goals_of_Victory": true,
     "Codeforces_1915B_-_Not_Quite_Latin_Square": true,
-    "Codeforces_2242B_-_Predominant_Frequency_Division": true
+    "Codeforces_2242B_-_Predominant_Frequency_Division": true,
+    "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true
   },
-  "totalSolved": 50,
+  "totalSolved": 51,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 31,
+    "medium": 32,
     "hard": 9,
     "basic": 5
   },
@@ -79,10 +80,11 @@
     "2072A - New World New Me New Array",
     "1877A - Goals of Victory",
     "1915B - Not Quite Latin Square",
-    "2242B - Predominant Frequency Division"
+    "2242B - Predominant Frequency Division",
+    "Numbers with Given Digit Sum"
   ],
   "currentStreak": 11,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-07-16",
   "maxStreak": 12,
   "activityHistory": {
@@ -108,6 +110,6 @@
     "2026-07-13": 2,
     "2026-07-14": 1,
     "2026-07-15": 3,
-    "2026-07-16": 5
+    "2026-07-16": 6
   }
 }
