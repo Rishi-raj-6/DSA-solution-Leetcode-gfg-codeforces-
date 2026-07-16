@@ -52,3 +52,4 @@
 | 50 | [2242B - Predominant Frequency Division](./Codeforces/basic/2242B%20-%20Predominant%20Frequency%20Division) | [Codeforces](https://codeforces.com/problemset/problem/2242/B) | basic | 16 Jul 2026 | 12:02 am |
 | 51 | [Numbers with Given Digit Sum](./GeeksForGeeks/Medium/Numbers%20with%20Given%20Digit%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-of-n-digit-numbers-whose-sum-of-digits-equals-to-given-sum0733/1) | Medium | 16 Jul 2026 | 01:43 am |
 | 52 | [Sum of GCD of Formed Pairs](./LeetCode/Medium/Sum%20of%20GCD%20of%20Formed%20Pairs) | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | 16 Jul 2026 | 06:08 pm |
+| 53 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 12:59 am |

@@ -67,27 +67,22 @@
     "Codeforces_1915B_-_Not_Quite_Latin_Square": true,
     "Codeforces_2242B_-_Predominant_Frequency_Division": true,
     "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true,
-    "LeetCode_Sum_of_GCD_of_Formed_Pairs": true
+    "LeetCode_Sum_of_GCD_of_Formed_Pairs": true,
+    "GeeksForGeeks_Max_Absolute_Diff_of_Two_Subarrays": true
   },
-  "totalSolved": 52,
+  "totalSolved": 53,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 33,
+    "medium": 34,
     "hard": 9,
     "basic": 5
   },
   "todayProblems": [
-    "2241A - Divide and Conquer",
-    "2072A - New World New Me New Array",
-    "1877A - Goals of Victory",
-    "1915B - Not Quite Latin Square",
-    "2242B - Predominant Frequency Division",
-    "Numbers with Given Digit Sum",
-    "Sum of GCD of Formed Pairs"
+    "Max Absolute Diff of Two Subarrays"
   ],
-  "currentStreak": 11,
-  "todayCount": 7,
-  "lastSyncDate": "2026-07-16",
+  "currentStreak": 12,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-17",
   "maxStreak": 12,
   "activityHistory": {
     "2026-06-23": 2,
@@ -112,6 +107,7 @@
     "2026-07-13": 2,
     "2026-07-14": 1,
     "2026-07-15": 3,
-    "2026-07-16": 7
+    "2026-07-16": 7,
+    "2026-07-17": 1
   }
 }
