@@ -66,12 +66,13 @@
     "Codeforces_1877A_-_Goals_of_Victory": true,
     "Codeforces_1915B_-_Not_Quite_Latin_Square": true,
     "Codeforces_2242B_-_Predominant_Frequency_Division": true,
-    "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true
+    "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true,
+    "LeetCode_Sum_of_GCD_of_Formed_Pairs": true
   },
-  "totalSolved": 51,
+  "totalSolved": 52,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 32,
+    "medium": 33,
     "hard": 9,
     "basic": 5
   },
@@ -81,10 +82,11 @@
     "1877A - Goals of Victory",
     "1915B - Not Quite Latin Square",
     "2242B - Predominant Frequency Division",
-    "Numbers with Given Digit Sum"
+    "Numbers with Given Digit Sum",
+    "Sum of GCD of Formed Pairs"
   ],
   "currentStreak": 11,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-07-16",
   "maxStreak": 12,
   "activityHistory": {
@@ -110,6 +112,6 @@
     "2026-07-13": 2,
     "2026-07-14": 1,
     "2026-07-15": 3,
-    "2026-07-16": 6
+    "2026-07-16": 7
   }
 }
