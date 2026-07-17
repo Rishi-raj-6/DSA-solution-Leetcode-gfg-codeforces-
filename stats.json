@@ -68,22 +68,23 @@
     "Codeforces_2242B_-_Predominant_Frequency_Division": true,
     "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true,
     "LeetCode_Sum_of_GCD_of_Formed_Pairs": true,
-    "GeeksForGeeks_Max_Absolute_Diff_of_Two_Subarrays": true
+    "GeeksForGeeks_Max_Absolute_Diff_of_Two_Subarrays": true,
+    "LeetCode_Sorted_GCD_Pair_Queries": true
   },
-  "totalSolved": 53,
+  "totalSolved": 54,
   "difficultyCounts": {
     "easy": 5,
     "medium": 34,
-    "hard": 9,
+    "hard": 10,
     "basic": 5
   },
   "todayProblems": [
-    "Max Absolute Diff of Two Subarrays"
+    "Sorted GCD Pair Queries"
   ],
-  "currentStreak": 12,
+  "currentStreak": 13,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-17",
-  "maxStreak": 12,
+  "lastSyncDate": "2026-07-18",
+  "maxStreak": 13,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -108,6 +109,7 @@
     "2026-07-14": 1,
     "2026-07-15": 3,
     "2026-07-16": 7,
-    "2026-07-17": 1
+    "2026-07-17": 1,
+    "2026-07-18": 1
   }
 }
