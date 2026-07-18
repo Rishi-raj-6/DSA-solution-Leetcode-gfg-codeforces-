@@ -55,3 +55,4 @@
 | 53 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 12:59 am |
 | 54 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 18 Jul 2026 | 04:06 am |
 | 55 | [Cut Matrix](./GeeksForGeeks/Hard/Cut%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cut-matrix/1) | Hard | 18 Jul 2026 | 08:46 pm |
+| 56 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 19 Jul 2026 | 02:23 am |

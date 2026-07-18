@@ -70,23 +70,23 @@
     "LeetCode_Sum_of_GCD_of_Formed_Pairs": true,
     "GeeksForGeeks_Max_Absolute_Diff_of_Two_Subarrays": true,
     "LeetCode_Sorted_GCD_Pair_Queries": true,
-    "GeeksForGeeks_Cut_Matrix": true
+    "GeeksForGeeks_Cut_Matrix": true,
+    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true
   },
-  "totalSolved": 55,
+  "totalSolved": 56,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 34,
     "hard": 11,
     "basic": 5
   },
   "todayProblems": [
-    "Sorted GCD Pair Queries",
-    "Cut Matrix"
+    "Find Greatest Common Divisor of Array"
   ],
-  "currentStreak": 13,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-18",
-  "maxStreak": 13,
+  "currentStreak": 14,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-19",
+  "maxStreak": 14,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -112,6 +112,7 @@
     "2026-07-15": 3,
     "2026-07-16": 7,
     "2026-07-17": 1,
-    "2026-07-18": 2
+    "2026-07-18": 2,
+    "2026-07-19": 1
   }
 }
