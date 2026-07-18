@@ -54,3 +54,4 @@
 | 52 | [Sum of GCD of Formed Pairs](./LeetCode/Medium/Sum%20of%20GCD%20of%20Formed%20Pairs) | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | 16 Jul 2026 | 06:08 pm |
 | 53 | [Max Absolute Diff of Two Subarrays](./GeeksForGeeks/Medium/Max%20Absolute%20Diff%20of%20Two%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-absolute-difference4114/1) | Medium | 17 Jul 2026 | 12:59 am |
 | 54 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 18 Jul 2026 | 04:06 am |
+| 55 | [Cut Matrix](./GeeksForGeeks/Hard/Cut%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cut-matrix/1) | Hard | 18 Jul 2026 | 08:46 pm |
