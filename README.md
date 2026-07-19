@@ -57,3 +57,4 @@
 | 55 | [Cut Matrix](./GeeksForGeeks/Hard/Cut%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cut-matrix/1) | Hard | 18 Jul 2026 | 08:46 pm |
 | 56 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 19 Jul 2026 | 02:23 am |
 | 57 | [Smallest Subsequence of Distinct Characters](./LeetCode/Medium/Smallest%20Subsequence%20of%20Distinct%20Characters) | [LeetCode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium | 20 Jul 2026 | 03:20 am |
+| 58 | [Mountain Subarray Queries](./GeeksForGeeks/Medium/Mountain%20Subarray%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mountain-subarray-problem/1) | Medium | 20 Jul 2026 | 03:20 am |

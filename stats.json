@@ -72,20 +72,22 @@
     "LeetCode_Sorted_GCD_Pair_Queries": true,
     "GeeksForGeeks_Cut_Matrix": true,
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
-    "LeetCode_Smallest_Subsequence_of_Distinct_Characters": true
+    "LeetCode_Smallest_Subsequence_of_Distinct_Characters": true,
+    "GeeksForGeeks_Mountain_Subarray_Queries": true
   },
-  "totalSolved": 57,
+  "totalSolved": 58,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 35,
+    "medium": 36,
     "hard": 11,
     "basic": 5
   },
   "todayProblems": [
-    "Smallest Subsequence of Distinct Characters"
+    "Smallest Subsequence of Distinct Characters",
+    "Mountain Subarray Queries"
   ],
   "currentStreak": 15,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-20",
   "maxStreak": 15,
   "activityHistory": {
@@ -115,6 +117,6 @@
     "2026-07-17": 1,
     "2026-07-18": 2,
     "2026-07-19": 1,
-    "2026-07-20": 1
+    "2026-07-20": 2
   }
 }
