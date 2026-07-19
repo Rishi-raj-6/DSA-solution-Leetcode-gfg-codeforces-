@@ -71,22 +71,23 @@
     "GeeksForGeeks_Max_Absolute_Diff_of_Two_Subarrays": true,
     "LeetCode_Sorted_GCD_Pair_Queries": true,
     "GeeksForGeeks_Cut_Matrix": true,
-    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true
+    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
+    "LeetCode_Smallest_Subsequence_of_Distinct_Characters": true
   },
-  "totalSolved": 56,
+  "totalSolved": 57,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 34,
+    "medium": 35,
     "hard": 11,
     "basic": 5
   },
   "todayProblems": [
-    "Find Greatest Common Divisor of Array"
+    "Smallest Subsequence of Distinct Characters"
   ],
-  "currentStreak": 14,
+  "currentStreak": 15,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-19",
-  "maxStreak": 14,
+  "lastSyncDate": "2026-07-20",
+  "maxStreak": 15,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -113,6 +114,7 @@
     "2026-07-16": 7,
     "2026-07-17": 1,
     "2026-07-18": 2,
-    "2026-07-19": 1
+    "2026-07-19": 1,
+    "2026-07-20": 1
   }
 }
