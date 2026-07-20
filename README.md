@@ -58,3 +58,4 @@
 | 56 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 19 Jul 2026 | 02:23 am |
 | 57 | [Smallest Subsequence of Distinct Characters](./LeetCode/Medium/Smallest%20Subsequence%20of%20Distinct%20Characters) | [LeetCode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium | 20 Jul 2026 | 03:20 am |
 | 58 | [Mountain Subarray Queries](./GeeksForGeeks/Medium/Mountain%20Subarray%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mountain-subarray-problem/1) | Medium | 20 Jul 2026 | 03:20 am |
+| 59 | [Shortest Unique Prefix for Every Word](./GeeksForGeeks/Hard/Shortest%20Unique%20Prefix%20for%20Every%20Word) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1) | Hard | 20 Jul 2026 | 06:03 pm |

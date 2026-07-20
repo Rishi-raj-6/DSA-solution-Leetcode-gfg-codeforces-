@@ -73,21 +73,23 @@
     "GeeksForGeeks_Cut_Matrix": true,
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
     "LeetCode_Smallest_Subsequence_of_Distinct_Characters": true,
-    "GeeksForGeeks_Mountain_Subarray_Queries": true
+    "GeeksForGeeks_Mountain_Subarray_Queries": true,
+    "GeeksForGeeks_Shortest_Unique_Prefix_for_Every_Word": true
   },
-  "totalSolved": 58,
+  "totalSolved": 59,
   "difficultyCounts": {
     "easy": 6,
     "medium": 36,
-    "hard": 11,
+    "hard": 12,
     "basic": 5
   },
   "todayProblems": [
     "Smallest Subsequence of Distinct Characters",
-    "Mountain Subarray Queries"
+    "Mountain Subarray Queries",
+    "Shortest Unique Prefix for Every Word"
   ],
   "currentStreak": 15,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-20",
   "maxStreak": 15,
   "activityHistory": {
@@ -117,6 +119,6 @@
     "2026-07-17": 1,
     "2026-07-18": 2,
     "2026-07-19": 1,
-    "2026-07-20": 2
+    "2026-07-20": 3
   }
 }
