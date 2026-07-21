@@ -76,22 +76,23 @@
     "GeeksForGeeks_Mountain_Subarray_Queries": true,
     "GeeksForGeeks_Shortest_Unique_Prefix_for_Every_Word": true,
     "LeetCode_Shift_2D_Grid": true,
-    "GeeksForGeeks_Maximum_Reachable_Index_Difference": true
+    "GeeksForGeeks_Maximum_Reachable_Index_Difference": true,
+    "LeetCode_Maximize_Active_Section_with_Trade_I": true
   },
-  "totalSolved": 61,
+  "totalSolved": 62,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 37,
+    "medium": 38,
     "hard": 12,
     "basic": 5
   },
   "todayProblems": [
-    "Maximum Reachable Index Difference"
+    "Maximize Active Section with Trade I"
   ],
-  "currentStreak": 16,
+  "currentStreak": 17,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-21",
-  "maxStreak": 16,
+  "lastSyncDate": "2026-07-22",
+  "maxStreak": 17,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -120,6 +121,7 @@
     "2026-07-18": 2,
     "2026-07-19": 1,
     "2026-07-20": 4,
-    "2026-07-21": 1
+    "2026-07-21": 1,
+    "2026-07-22": 1
   }
 }
