@@ -60,3 +60,4 @@
 | 58 | [Mountain Subarray Queries](./GeeksForGeeks/Medium/Mountain%20Subarray%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mountain-subarray-problem/1) | Medium | 20 Jul 2026 | 03:20 am |
 | 59 | [Shortest Unique Prefix for Every Word](./GeeksForGeeks/Hard/Shortest%20Unique%20Prefix%20for%20Every%20Word) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1) | Hard | 20 Jul 2026 | 06:03 pm |
 | 60 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 20 Jul 2026 | 11:33 pm |
+| 61 | [Maximum Reachable Index Difference](./GeeksForGeeks/Medium/Maximum%20Reachable%20Index%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-reachable-index-difference/1) | Medium | 21 Jul 2026 | 11:40 pm |
