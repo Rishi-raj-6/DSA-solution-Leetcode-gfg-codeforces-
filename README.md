@@ -63,3 +63,4 @@
 | 61 | [Maximum Reachable Index Difference](./GeeksForGeeks/Medium/Maximum%20Reachable%20Index%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-reachable-index-difference/1) | Medium | 21 Jul 2026 | 11:40 pm |
 | 62 | [Maximize Active Section with Trade I](./LeetCode/Medium/Maximize%20Active%20Section%20with%20Trade%20I) | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium | 22 Jul 2026 | 04:48 am |
 | 63 | [Minimum Deletions to Make Sorted](./GeeksForGeeks/Easy/Minimum%20Deletions%20to%20Make%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1) | Easy | 22 Jul 2026 | 11:08 pm |
+| 64 | [Check Preorder of BST](./GeeksForGeeks/Medium/Check%20Preorder%20of%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1) | Medium | 23 Jul 2026 | 11:15 pm |
