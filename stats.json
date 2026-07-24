@@ -80,22 +80,23 @@
     "LeetCode_Maximize_Active_Section_with_Trade_I": true,
     "GeeksForGeeks_Minimum_Deletions_to_Make_Sorted": true,
     "GeeksForGeeks_Check_Preorder_of_BST": true,
-    "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true
+    "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true,
+    "LeetCode_Number_of_Unique_XOR_Triplets_II": true
   },
-  "totalSolved": 65,
+  "totalSolved": 66,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 40,
+    "medium": 41,
     "hard": 12,
     "basic": 5
   },
   "todayProblems": [
-    "Longest Consecutive Path in Binary tree"
+    "Number of Unique XOR Triplets II"
   ],
-  "currentStreak": 19,
+  "currentStreak": 20,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-24",
-  "maxStreak": 19,
+  "lastSyncDate": "2026-07-25",
+  "maxStreak": 20,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -127,6 +128,7 @@
     "2026-07-21": 1,
     "2026-07-22": 2,
     "2026-07-23": 1,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   }
 }

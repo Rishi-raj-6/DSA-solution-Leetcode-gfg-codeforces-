@@ -65,3 +65,4 @@
 | 63 | [Minimum Deletions to Make Sorted](./GeeksForGeeks/Easy/Minimum%20Deletions%20to%20Make%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1) | Easy | 22 Jul 2026 | 11:08 pm |
 | 64 | [Check Preorder of BST](./GeeksForGeeks/Medium/Check%20Preorder%20of%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1) | Medium | 23 Jul 2026 | 11:15 pm |
 | 65 | [Longest Consecutive Path in Binary tree](./GeeksForGeeks/Medium/Longest%20Consecutive%20Path%20in%20Binary%20tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-sequence-in-binary-tree/1) | Medium | 24 Jul 2026 | 11:27 pm |
+| 66 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 25 Jul 2026 | 03:38 am |
