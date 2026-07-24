@@ -79,22 +79,23 @@
     "GeeksForGeeks_Maximum_Reachable_Index_Difference": true,
     "LeetCode_Maximize_Active_Section_with_Trade_I": true,
     "GeeksForGeeks_Minimum_Deletions_to_Make_Sorted": true,
-    "GeeksForGeeks_Check_Preorder_of_BST": true
+    "GeeksForGeeks_Check_Preorder_of_BST": true,
+    "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true
   },
-  "totalSolved": 64,
+  "totalSolved": 65,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 39,
+    "medium": 40,
     "hard": 12,
     "basic": 5
   },
   "todayProblems": [
-    "Check Preorder of BST"
+    "Longest Consecutive Path in Binary tree"
   ],
-  "currentStreak": 18,
+  "currentStreak": 19,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-23",
-  "maxStreak": 18,
+  "lastSyncDate": "2026-07-24",
+  "maxStreak": 19,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -125,6 +126,7 @@
     "2026-07-20": 4,
     "2026-07-21": 1,
     "2026-07-22": 2,
-    "2026-07-23": 1
+    "2026-07-23": 1,
+    "2026-07-24": 1
   }
 }
