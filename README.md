@@ -67,3 +67,4 @@
 | 65 | [Longest Consecutive Path in Binary tree](./GeeksForGeeks/Medium/Longest%20Consecutive%20Path%20in%20Binary%20tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-sequence-in-binary-tree/1) | Medium | 24 Jul 2026 | 11:27 pm |
 | 66 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 25 Jul 2026 | 03:38 am |
 | 67 | [Max Sum Square Sub-Matrix of Size k](./GeeksForGeeks/Medium/Max%20Sum%20Square%20Sub-Matrix%20of%20Size%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/coins-of-geekland--141631/1) | Medium | 25 Jul 2026 | 11:29 pm |
+| 68 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 26 Jul 2026 | 12:35 am |

@@ -82,23 +82,23 @@
     "GeeksForGeeks_Check_Preorder_of_BST": true,
     "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true,
     "LeetCode_Number_of_Unique_XOR_Triplets_II": true,
-    "GeeksForGeeks_Max_Sum_Square_Sub-Matrix_of_Size_k": true
+    "GeeksForGeeks_Max_Sum_Square_Sub-Matrix_of_Size_k": true,
+    "LeetCode_Maximum_Product_of_Two_Digits": true
   },
-  "totalSolved": 67,
+  "totalSolved": 68,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 42,
     "hard": 12,
     "basic": 5
   },
   "todayProblems": [
-    "Number of Unique XOR Triplets II",
-    "Max Sum Square Sub-Matrix of Size k"
+    "Maximum Product of Two Digits"
   ],
-  "currentStreak": 20,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-25",
-  "maxStreak": 20,
+  "currentStreak": 21,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-26",
+  "maxStreak": 21,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -131,6 +131,7 @@
     "2026-07-22": 2,
     "2026-07-23": 1,
     "2026-07-24": 1,
-    "2026-07-25": 2
+    "2026-07-25": 2,
+    "2026-07-26": 1
   }
 }
