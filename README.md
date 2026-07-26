@@ -68,3 +68,4 @@
 | 66 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 25 Jul 2026 | 03:38 am |
 | 67 | [Max Sum Square Sub-Matrix of Size k](./GeeksForGeeks/Medium/Max%20Sum%20Square%20Sub-Matrix%20of%20Size%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/coins-of-geekland--141631/1) | Medium | 25 Jul 2026 | 11:29 pm |
 | 68 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 26 Jul 2026 | 12:35 am |
+| 69 | [Complete Binary Tree Traversal with Array Input](./GeeksForGeeks/Medium/Complete%20Binary%20Tree%20Traversal%20with%20Array%20Input) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order3241/1) | Medium | 26 Jul 2026 | 11:18 pm |
