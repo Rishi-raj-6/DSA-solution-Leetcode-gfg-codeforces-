@@ -70,3 +70,4 @@
 | 68 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 26 Jul 2026 | 12:35 am |
 | 69 | [Complete Binary Tree Traversal with Array Input](./GeeksForGeeks/Medium/Complete%20Binary%20Tree%20Traversal%20with%20Array%20Input) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order3241/1) | Medium | 26 Jul 2026 | 11:18 pm |
 | 70 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 27 Jul 2026 | 03:59 am |
+| 71 | [Construct a Full Binary Tree](./GeeksForGeeks/Medium/Construct%20a%20Full%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/construct-a-full-binary-tree--170648/1) | Medium | 27 Jul 2026 | 02:45 pm |
