@@ -72,3 +72,4 @@
 | 70 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 27 Jul 2026 | 03:59 am |
 | 71 | [Construct a Full Binary Tree](./GeeksForGeeks/Medium/Construct%20a%20Full%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/construct-a-full-binary-tree--170648/1) | Medium | 27 Jul 2026 | 02:45 pm |
 | 72 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 27 Jul 2026 | 05:26 pm |
+| 73 | [Shortest Path in 1-2 Graph](./GeeksForGeeks/Hard/Shortest%20Path%20in%201-2%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-of-nodes1147/1) | Hard | 28 Jul 2026 | 03:34 am |
