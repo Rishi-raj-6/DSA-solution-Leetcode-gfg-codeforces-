@@ -86,21 +86,23 @@
     "LeetCode_Maximum_Product_of_Two_Digits": true,
     "GeeksForGeeks_Complete_Binary_Tree_Traversal_with_Array_Input": true,
     "LeetCode_Maximum_Product_of_Three_Numbers": true,
-    "GeeksForGeeks_Construct_a_Full_Binary_Tree": true
+    "GeeksForGeeks_Construct_a_Full_Binary_Tree": true,
+    "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true
   },
-  "totalSolved": 71,
+  "totalSolved": 72,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 44,
     "hard": 12,
     "basic": 5
   },
   "todayProblems": [
     "Maximum Product of Three Numbers",
-    "Construct a Full Binary Tree"
+    "Construct a Full Binary Tree",
+    "Maximum Product of Two Elements in an Array"
   ],
   "currentStreak": 22,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-27",
   "maxStreak": 22,
   "activityHistory": {
@@ -137,6 +139,6 @@
     "2026-07-24": 1,
     "2026-07-25": 2,
     "2026-07-26": 2,
-    "2026-07-27": 2
+    "2026-07-27": 3
   }
 }
