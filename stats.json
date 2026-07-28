@@ -88,20 +88,22 @@
     "LeetCode_Maximum_Product_of_Three_Numbers": true,
     "GeeksForGeeks_Construct_a_Full_Binary_Tree": true,
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
-    "GeeksForGeeks_Shortest_Path_in_1-2_Graph": true
+    "GeeksForGeeks_Shortest_Path_in_1-2_Graph": true,
+    "LeetCode_Smallest_Palindromic_Rearrangement_I": true
   },
-  "totalSolved": 73,
+  "totalSolved": 74,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 44,
+    "medium": 45,
     "hard": 13,
     "basic": 5
   },
   "todayProblems": [
-    "Shortest Path in 1-2 Graph"
+    "Shortest Path in 1-2 Graph",
+    "Smallest Palindromic Rearrangement I"
   ],
   "currentStreak": 23,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-28",
   "maxStreak": 23,
   "activityHistory": {
@@ -139,6 +141,6 @@
     "2026-07-25": 2,
     "2026-07-26": 2,
     "2026-07-27": 3,
-    "2026-07-28": 1
+    "2026-07-28": 2
   }
 }
