@@ -75,3 +75,4 @@
 | 73 | [Shortest Path in 1-2 Graph](./GeeksForGeeks/Hard/Shortest%20Path%20in%201-2%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-of-nodes1147/1) | Hard | 28 Jul 2026 | 03:34 am |
 | 74 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 28 Jul 2026 | 05:31 pm |
 | 75 | [Split Array into Minimum Subsets](./GeeksForGeeks/Easy/Split%20Array%20into%20Minimum%20Subsets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/split-array-into-minimum-subsets/1) | Easy | 29 Jul 2026 | 02:54 am |
+| 76 | [Smallest Palindromic Rearrangement II](./LeetCode/Hard/Smallest%20Palindromic%20Rearrangement%20II) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | 29 Jul 2026 | 09:48 pm |

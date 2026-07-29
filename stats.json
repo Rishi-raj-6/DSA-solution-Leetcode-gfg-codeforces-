@@ -90,20 +90,22 @@
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
     "GeeksForGeeks_Shortest_Path_in_1-2_Graph": true,
     "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
-    "GeeksForGeeks_Split_Array_into_Minimum_Subsets": true
+    "GeeksForGeeks_Split_Array_into_Minimum_Subsets": true,
+    "LeetCode_Smallest_Palindromic_Rearrangement_II": true
   },
-  "totalSolved": 75,
+  "totalSolved": 76,
   "difficultyCounts": {
     "easy": 12,
     "medium": 45,
-    "hard": 13,
+    "hard": 14,
     "basic": 5
   },
   "todayProblems": [
-    "Split Array into Minimum Subsets"
+    "Split Array into Minimum Subsets",
+    "Smallest Palindromic Rearrangement II"
   ],
   "currentStreak": 24,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-29",
   "maxStreak": 24,
   "activityHistory": {
@@ -142,6 +144,6 @@
     "2026-07-26": 2,
     "2026-07-27": 3,
     "2026-07-28": 2,
-    "2026-07-29": 1
+    "2026-07-29": 2
   }
 }
