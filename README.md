@@ -77,3 +77,4 @@
 | 75 | [Split Array into Minimum Subsets](./GeeksForGeeks/Easy/Split%20Array%20into%20Minimum%20Subsets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/split-array-into-minimum-subsets/1) | Easy | 29 Jul 2026 | 02:54 am |
 | 76 | [Smallest Palindromic Rearrangement II](./LeetCode/Hard/Smallest%20Palindromic%20Rearrangement%20II) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | 29 Jul 2026 | 09:48 pm |
 | 77 | [Maximum Subset XOR](./GeeksForGeeks/Medium/Maximum%20Subset%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) | Medium | 30 Jul 2026 | 03:37 pm |
+| 78 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 30 Jul 2026 | 09:09 pm |
