@@ -78,3 +78,4 @@
 | 76 | [Smallest Palindromic Rearrangement II](./LeetCode/Hard/Smallest%20Palindromic%20Rearrangement%20II) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | 29 Jul 2026 | 09:48 pm |
 | 77 | [Maximum Subset XOR](./GeeksForGeeks/Medium/Maximum%20Subset%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) | Medium | 30 Jul 2026 | 03:37 pm |
 | 78 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 30 Jul 2026 | 09:09 pm |
+| 79 | [Subsets with Products of Distinct Primes](./GeeksForGeeks/Hard/Subsets%20with%20Products%20of%20Distinct%20Primes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-of-subsets/1) | Hard | 31 Jul 2026 | 03:47 pm |
