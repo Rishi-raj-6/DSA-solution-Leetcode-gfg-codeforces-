@@ -94,22 +94,23 @@
     "LeetCode_Smallest_Palindromic_Rearrangement_II": true,
     "GeeksForGeeks_Maximum_Subset_XOR": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
-    "GeeksForGeeks_Subsets_with_Products_of_Distinct_Primes": true
+    "GeeksForGeeks_Subsets_with_Products_of_Distinct_Primes": true,
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true
   },
-  "totalSolved": 79,
+  "totalSolved": 80,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 46,
+    "medium": 47,
     "hard": 15,
     "basic": 5
   },
   "todayProblems": [
-    "Subsets with Products of Distinct Primes"
+    "Minimum Number of Pushes to Type Word II"
   ],
-  "currentStreak": 26,
+  "currentStreak": 27,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-31",
-  "maxStreak": 26,
+  "lastSyncDate": "2026-08-01",
+  "maxStreak": 27,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -148,6 +149,7 @@
     "2026-07-28": 2,
     "2026-07-29": 2,
     "2026-07-30": 2,
-    "2026-07-31": 1
+    "2026-07-31": 1,
+    "2026-08-01": 1
   }
 }
