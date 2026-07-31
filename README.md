@@ -80,3 +80,4 @@
 | 78 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 30 Jul 2026 | 09:09 pm |
 | 79 | [Subsets with Products of Distinct Primes](./GeeksForGeeks/Hard/Subsets%20with%20Products%20of%20Distinct%20Primes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-of-subsets/1) | Hard | 31 Jul 2026 | 03:47 pm |
 | 80 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 01 Aug 2026 | 04:11 am |
+| 81 | [Max After m Range Increments](./GeeksForGeeks/Medium/Max%20After%20m%20Range%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-value-after-m-range-operation4300/1) | Medium | 01 Aug 2026 | 04:12 am |

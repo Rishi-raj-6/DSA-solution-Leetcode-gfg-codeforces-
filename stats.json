@@ -95,20 +95,22 @@
     "GeeksForGeeks_Maximum_Subset_XOR": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
     "GeeksForGeeks_Subsets_with_Products_of_Distinct_Primes": true,
-    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
+    "GeeksForGeeks_Max_After_m_Range_Increments": true
   },
-  "totalSolved": 80,
+  "totalSolved": 81,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 47,
+    "medium": 48,
     "hard": 15,
     "basic": 5
   },
   "todayProblems": [
-    "Minimum Number of Pushes to Type Word II"
+    "Minimum Number of Pushes to Type Word II",
+    "Max After m Range Increments"
   ],
   "currentStreak": 27,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-01",
   "maxStreak": 27,
   "activityHistory": {
@@ -150,6 +152,6 @@
     "2026-07-29": 2,
     "2026-07-30": 2,
     "2026-07-31": 1,
-    "2026-08-01": 1
+    "2026-08-01": 2
   }
 }
