@@ -96,23 +96,23 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
     "GeeksForGeeks_Subsets_with_Products_of_Distinct_Primes": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
-    "GeeksForGeeks_Max_After_m_Range_Increments": true
+    "GeeksForGeeks_Max_After_m_Range_Increments": true,
+    "GeeksForGeeks_Sequences_where_Adjacent_Divide": true
   },
-  "totalSolved": 81,
+  "totalSolved": 82,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 48,
+    "medium": 49,
     "hard": 15,
     "basic": 5
   },
   "todayProblems": [
-    "Minimum Number of Pushes to Type Word II",
-    "Max After m Range Increments"
+    "Sequences where Adjacent Divide"
   ],
-  "currentStreak": 27,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-01",
-  "maxStreak": 27,
+  "currentStreak": 28,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-02",
+  "maxStreak": 28,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -152,6 +152,7 @@
     "2026-07-29": 2,
     "2026-07-30": 2,
     "2026-07-31": 1,
-    "2026-08-01": 2
+    "2026-08-01": 2,
+    "2026-08-02": 1
   }
 }
