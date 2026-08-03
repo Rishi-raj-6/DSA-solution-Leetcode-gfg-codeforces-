@@ -98,22 +98,23 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "GeeksForGeeks_Max_After_m_Range_Increments": true,
     "GeeksForGeeks_Sequences_where_Adjacent_Divide": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true,
+    "LeetCode_Stone_Game_III": true
   },
-  "totalSolved": 83,
+  "totalSolved": 84,
   "difficultyCounts": {
     "easy": 13,
     "medium": 50,
-    "hard": 15,
+    "hard": 16,
     "basic": 5
   },
   "todayProblems": [
-    "Max Sum Subarray of Size at least K"
+    "Stone Game III"
   ],
-  "currentStreak": 29,
+  "currentStreak": 30,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-03",
-  "maxStreak": 29,
+  "lastSyncDate": "2026-08-04",
+  "maxStreak": 30,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -155,6 +156,7 @@
     "2026-07-31": 1,
     "2026-08-01": 2,
     "2026-08-02": 1,
-    "2026-08-03": 1
+    "2026-08-03": 1,
+    "2026-08-04": 1
   }
 }

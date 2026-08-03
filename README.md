@@ -83,3 +83,4 @@
 | 81 | [Max After m Range Increments](./GeeksForGeeks/Medium/Max%20After%20m%20Range%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-value-after-m-range-operation4300/1) | Medium | 01 Aug 2026 | 04:12 am |
 | 82 | [Sequences where Adjacent Divide](./GeeksForGeeks/Medium/Sequences%20where%20Adjacent%20Divide) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-in-array2138/1) | Medium | 02 Aug 2026 | 08:22 pm |
 | 83 | [Max Sum Subarray of Size at least K](./GeeksForGeeks/Medium/Max%20Sum%20Subarray%20of%20Size%20at%20least%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1) | Medium | 03 Aug 2026 | 09:24 am |
+| 84 | [Stone Game III](./LeetCode/Hard/Stone%20Game%20III) | [LeetCode](https://leetcode.com/problems/stone-game-iii/) | Hard | 04 Aug 2026 | 12:14 am |
