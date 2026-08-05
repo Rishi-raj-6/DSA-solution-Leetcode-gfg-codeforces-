@@ -85,3 +85,4 @@
 | 83 | [Max Sum Subarray of Size at least K](./GeeksForGeeks/Medium/Max%20Sum%20Subarray%20of%20Size%20at%20least%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1) | Medium | 03 Aug 2026 | 09:24 am |
 | 84 | [Stone Game III](./LeetCode/Hard/Stone%20Game%20III) | [LeetCode](https://leetcode.com/problems/stone-game-iii/) | Hard | 04 Aug 2026 | 12:14 am |
 | 85 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 05 Aug 2026 | 07:37 pm |
+| 86 | [Remove Methods From Project](./LeetCode/Medium/Remove%20Methods%20From%20Project) | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) | Medium | 05 Aug 2026 | 07:49 pm |

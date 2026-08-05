@@ -100,20 +100,22 @@
     "GeeksForGeeks_Sequences_where_Adjacent_Divide": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true,
     "LeetCode_Stone_Game_III": true,
-    "GeeksForGeeks_Subarrays_with_Sum_in_Range": true
+    "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
+    "LeetCode_Remove_Methods_From_Project": true
   },
-  "totalSolved": 85,
+  "totalSolved": 86,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 50,
+    "medium": 51,
     "hard": 17,
     "basic": 5
   },
   "todayProblems": [
-    "Subarrays with Sum in Range"
+    "Subarrays with Sum in Range",
+    "Remove Methods From Project"
   ],
   "currentStreak": 31,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-05",
   "maxStreak": 31,
   "activityHistory": {
@@ -159,6 +161,6 @@
     "2026-08-02": 1,
     "2026-08-03": 1,
     "2026-08-04": 1,
-    "2026-08-05": 1
+    "2026-08-05": 2
   }
 }
