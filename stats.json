@@ -101,23 +101,23 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true,
     "LeetCode_Stone_Game_III": true,
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
-    "LeetCode_Remove_Methods_From_Project": true
+    "LeetCode_Remove_Methods_From_Project": true,
+    "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true
   },
-  "totalSolved": 86,
+  "totalSolved": 87,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 51,
+    "medium": 52,
     "hard": 17,
     "basic": 5
   },
   "todayProblems": [
-    "Subarrays with Sum in Range",
-    "Remove Methods From Project"
+    "Minimum Increment or Double Operations to Convert"
   ],
-  "currentStreak": 31,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-05",
-  "maxStreak": 31,
+  "currentStreak": 32,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-06",
+  "maxStreak": 32,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -161,6 +161,7 @@
     "2026-08-02": 1,
     "2026-08-03": 1,
     "2026-08-04": 1,
-    "2026-08-05": 2
+    "2026-08-05": 2,
+    "2026-08-06": 1
   }
 }
