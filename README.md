@@ -87,3 +87,4 @@
 | 85 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 05 Aug 2026 | 07:37 pm |
 | 86 | [Remove Methods From Project](./LeetCode/Medium/Remove%20Methods%20From%20Project) | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) | Medium | 05 Aug 2026 | 07:49 pm |
 | 87 | [Minimum Increment or Double Operations to Convert](./GeeksForGeeks/Medium/Minimum%20Increment%20or%20Double%20Operations%20to%20Convert) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1) | Medium | 06 Aug 2026 | 11:06 pm |
+| 88 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 07 Aug 2026 | 02:54 pm |
