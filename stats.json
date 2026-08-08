@@ -105,20 +105,22 @@
     "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
-    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true
+    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
+    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true
   },
-  "totalSolved": 90,
+  "totalSolved": 91,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 54,
+    "medium": 55,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Min Edge Movements to Connect a Graph"
+    "Min Edge Movements to Connect a Graph",
+    "Find the Lexicographically Smallest Valid Sequence"
   ],
   "currentStreak": 34,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-08",
   "maxStreak": 34,
   "activityHistory": {
@@ -167,6 +169,6 @@
     "2026-08-05": 2,
     "2026-08-06": 1,
     "2026-08-07": 2,
-    "2026-08-08": 1
+    "2026-08-08": 2
   }
 }
