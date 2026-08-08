@@ -104,23 +104,23 @@
     "LeetCode_Remove_Methods_From_Project": true,
     "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
-    "LeetCode_Smallest_Divisible_Digit_Product_II": true
+    "LeetCode_Smallest_Divisible_Digit_Product_II": true,
+    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true
   },
-  "totalSolved": 89,
+  "totalSolved": 90,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 53,
+    "medium": 54,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Friends Pairing Problem",
-    "Smallest Divisible Digit Product II"
+    "Min Edge Movements to Connect a Graph"
   ],
-  "currentStreak": 33,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-07",
-  "maxStreak": 33,
+  "currentStreak": 34,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-08",
+  "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
     "2026-06-24": 2,
@@ -166,6 +166,7 @@
     "2026-08-04": 1,
     "2026-08-05": 2,
     "2026-08-06": 1,
-    "2026-08-07": 2
+    "2026-08-07": 2,
+    "2026-08-08": 1
   }
 }
