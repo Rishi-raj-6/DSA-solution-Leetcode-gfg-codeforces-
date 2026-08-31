@@ -107,20 +107,22 @@
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
     "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
-    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true
+    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
+    "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true
   },
-  "totalSolved": 92,
+  "totalSolved": 93,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 56,
+    "medium": 57,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points"
+    "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "Count Palindromic Strings with Constraints"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-01",
   "maxStreak": 34,
   "activityHistory": {
@@ -170,6 +172,6 @@
     "2026-08-06": 1,
     "2026-08-07": 2,
     "2026-08-08": 2,
-    "2026-09-01": 1
+    "2026-09-01": 2
   }
 }
