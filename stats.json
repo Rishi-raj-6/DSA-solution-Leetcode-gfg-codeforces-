@@ -106,22 +106,22 @@
     "GeeksForGeeks_Friends_Pairing_Problem": true,
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
-    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true
+    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
+    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true
   },
-  "totalSolved": 91,
+  "totalSolved": 92,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 55,
+    "medium": 56,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Min Edge Movements to Connect a Graph",
-    "Find the Lexicographically Smallest Valid Sequence"
+    "Find the Minimum and Maximum Number of Nodes Between Critical Points"
   ],
-  "currentStreak": 34,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-08",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-01",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -169,6 +169,7 @@
     "2026-08-05": 2,
     "2026-08-06": 1,
     "2026-08-07": 2,
-    "2026-08-08": 2
+    "2026-08-08": 2,
+    "2026-09-01": 1
   }
 }
