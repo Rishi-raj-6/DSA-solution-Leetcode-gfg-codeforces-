@@ -108,22 +108,22 @@
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
     "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
-    "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true
+    "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
+    "LeetCode_Construct_Uniform_Parity_Array_I": true
   },
-  "totalSolved": 93,
+  "totalSolved": 94,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 57,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-    "Count Palindromic Strings with Constraints"
+    "Construct Uniform Parity Array I"
   ],
-  "currentStreak": 1,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-01",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-02",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -172,6 +172,7 @@
     "2026-08-06": 1,
     "2026-08-07": 2,
     "2026-08-08": 2,
-    "2026-09-01": 2
+    "2026-09-01": 2,
+    "2026-09-02": 1
   }
 }
