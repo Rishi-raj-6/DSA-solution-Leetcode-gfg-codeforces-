@@ -109,20 +109,22 @@
     "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
-    "LeetCode_Construct_Uniform_Parity_Array_I": true
+    "LeetCode_Construct_Uniform_Parity_Array_I": true,
+    "GeeksForGeeks_Unoccupied_Computers": true
   },
-  "totalSolved": 94,
+  "totalSolved": 95,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 57,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Construct Uniform Parity Array I"
+    "Construct Uniform Parity Array I",
+    "Unoccupied Computers"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-02",
   "maxStreak": 34,
   "activityHistory": {
@@ -173,6 +175,6 @@
     "2026-08-07": 2,
     "2026-08-08": 2,
     "2026-09-01": 2,
-    "2026-09-02": 1
+    "2026-09-02": 2
   }
 }
