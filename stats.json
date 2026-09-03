@@ -111,20 +111,22 @@
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "GeeksForGeeks_Unoccupied_Computers": true,
-    "LeetCode_Construct_Uniform_Parity_Array_II": true
+    "LeetCode_Construct_Uniform_Parity_Array_II": true,
+    "GeeksForGeeks_Max_Adjacent_Diffs_Sum_with_1_Replacements": true
   },
-  "totalSolved": 96,
+  "totalSolved": 97,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 58,
+    "medium": 59,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Construct Uniform Parity Array II"
+    "Construct Uniform Parity Array II",
+    "Max Adjacent Diffs Sum with 1 Replacements"
   ],
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-03",
   "maxStreak": 34,
   "activityHistory": {
@@ -176,6 +178,6 @@
     "2026-08-08": 2,
     "2026-09-01": 2,
     "2026-09-02": 2,
-    "2026-09-03": 1
+    "2026-09-03": 2
   }
 }
