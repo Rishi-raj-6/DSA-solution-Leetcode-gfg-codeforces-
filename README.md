@@ -95,3 +95,4 @@
 | 93 | [Count Palindromic Strings with Constraints](./GeeksForGeeks/Medium/Count%20Palindromic%20Strings%20with%20Constraints) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-palindromic-strings2706/1) | Medium | 01 Sept 2026 | 01:19 am |
 | 94 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 04:03 pm |
 | 95 | [Unoccupied Computers](./GeeksForGeeks/Easy/Unoccupied%20Computers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | Easy | 02 Sept 2026 | 04:10 pm |
+| 96 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 03:43 pm |

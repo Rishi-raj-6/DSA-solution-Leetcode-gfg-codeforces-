@@ -110,22 +110,22 @@
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
-    "GeeksForGeeks_Unoccupied_Computers": true
+    "GeeksForGeeks_Unoccupied_Computers": true,
+    "LeetCode_Construct_Uniform_Parity_Array_II": true
   },
-  "totalSolved": 95,
+  "totalSolved": 96,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 57,
+    "medium": 58,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Construct Uniform Parity Array I",
-    "Unoccupied Computers"
+    "Construct Uniform Parity Array II"
   ],
-  "currentStreak": 2,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-02",
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-03",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -175,6 +175,7 @@
     "2026-08-07": 2,
     "2026-08-08": 2,
     "2026-09-01": 2,
-    "2026-09-02": 2
+    "2026-09-02": 2,
+    "2026-09-03": 1
   }
 }
