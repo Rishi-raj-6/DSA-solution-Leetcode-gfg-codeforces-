@@ -98,3 +98,4 @@
 | 96 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 03:43 pm |
 | 97 | [Max Adjacent Diffs Sum with 1 Replacements](./GeeksForGeeks/Medium/Max%20Adjacent%20Diffs%20Sum%20with%201%20Replacements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/modify-array-to-maximize-sum-of-adjacent-differences1729/1) | Medium | 03 Sept 2026 | 03:51 pm |
 | 98 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 10:41 pm |
+| 99 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 10:47 pm |

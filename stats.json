@@ -113,20 +113,22 @@
     "GeeksForGeeks_Unoccupied_Computers": true,
     "LeetCode_Construct_Uniform_Parity_Array_II": true,
     "GeeksForGeeks_Max_Adjacent_Diffs_Sum_with_1_Replacements": true,
-    "LeetCode_Unique_3-Digit_Even_Numbers": true
+    "LeetCode_Unique_3-Digit_Even_Numbers": true,
+    "GeeksForGeeks_Values_with_Equal_Array_Remainders": true
   },
-  "totalSolved": 98,
+  "totalSolved": 99,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 59,
     "hard": 18,
     "basic": 5
   },
   "todayProblems": [
-    "Unique 3-Digit Even Numbers"
+    "Unique 3-Digit Even Numbers",
+    "Values with Equal Array Remainders"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-11",
   "maxStreak": 34,
   "activityHistory": {
@@ -179,6 +181,6 @@
     "2026-09-01": 2,
     "2026-09-02": 2,
     "2026-09-03": 2,
-    "2026-09-11": 1
+    "2026-09-11": 2
   }
 }
