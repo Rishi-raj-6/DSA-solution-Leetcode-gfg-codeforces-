@@ -97,3 +97,4 @@
 | 95 | [Unoccupied Computers](./GeeksForGeeks/Easy/Unoccupied%20Computers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | Easy | 02 Sept 2026 | 04:10 pm |
 | 96 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 03:43 pm |
 | 97 | [Max Adjacent Diffs Sum with 1 Replacements](./GeeksForGeeks/Medium/Max%20Adjacent%20Diffs%20Sum%20with%201%20Replacements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/modify-array-to-maximize-sum-of-adjacent-differences1729/1) | Medium | 03 Sept 2026 | 03:51 pm |
+| 98 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 10:41 pm |
