@@ -99,3 +99,4 @@
 | 97 | [Max Adjacent Diffs Sum with 1 Replacements](./GeeksForGeeks/Medium/Max%20Adjacent%20Diffs%20Sum%20with%201%20Replacements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/modify-array-to-maximize-sum-of-adjacent-differences1729/1) | Medium | 03 Sept 2026 | 03:51 pm |
 | 98 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 10:41 pm |
 | 99 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 10:47 pm |
+| 100 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 11 Sept 2026 | 11:06 pm |
