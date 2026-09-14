@@ -101,3 +101,4 @@
 | 99 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 10:47 pm |
 | 100 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 11 Sept 2026 | 11:06 pm |
 | 101 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 11:44 pm |
+| 102 | [Shortest Safe Route in Grid](./GeeksForGeeks/Medium/Shortest%20Safe%20Route%20in%20Grid) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-shortest-safe-route-in-a-matrix/1) | Medium | 15 Sept 2026 | 12:14 am |
