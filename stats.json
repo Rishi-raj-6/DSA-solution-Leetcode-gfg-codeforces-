@@ -118,21 +118,23 @@
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Rectangle_Overlap": true,
     "GeeksForGeeks_Shortest_Safe_Route_in_Grid": true,
-    "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true
+    "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true,
+    "GeeksForGeeks_Visit_Leaves_with_Budget": true
   },
-  "totalSolved": 103,
+  "totalSolved": 104,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 60,
     "hard": 19,
     "basic": 5
   },
   "todayProblems": [
     "Shortest Safe Route in Grid",
-    "Maximum Number of Non-overlapping Palindrome Substrings"
+    "Maximum Number of Non-overlapping Palindrome Substrings",
+    "Visit Leaves with Budget"
   ],
   "currentStreak": 2,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-15",
   "maxStreak": 34,
   "activityHistory": {
@@ -187,6 +189,6 @@
     "2026-09-03": 2,
     "2026-09-11": 3,
     "2026-09-14": 1,
-    "2026-09-15": 2
+    "2026-09-15": 3
   }
 }
