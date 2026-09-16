@@ -120,21 +120,22 @@
     "GeeksForGeeks_Shortest_Safe_Route_in_Grid": true,
     "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true,
     "GeeksForGeeks_Visit_Leaves_with_Budget": true,
-    "GeeksForGeeks_Dominant_Pairs": true
+    "GeeksForGeeks_Dominant_Pairs": true,
+    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true
   },
-  "totalSolved": 105,
+  "totalSolved": 106,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 60,
+    "medium": 61,
     "hard": 19,
     "basic": 5
   },
   "todayProblems": [
-    "Dominant Pairs"
+    "Min Edge Reversals for Path"
   ],
-  "currentStreak": 3,
+  "currentStreak": 4,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-16",
+  "lastSyncDate": "2026-09-17",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -189,6 +190,7 @@
     "2026-09-11": 3,
     "2026-09-14": 1,
     "2026-09-15": 3,
-    "2026-09-16": 1
+    "2026-09-16": 1,
+    "2026-09-17": 1
   }
 }

@@ -105,3 +105,4 @@
 | 103 | [Maximum Number of Non-overlapping Palindrome Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 15 Sept 2026 | 03:54 pm |
 | 104 | [Visit Leaves with Budget](./GeeksForGeeks/Easy/Visit%20Leaves%20with%20Budget) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | Easy | 15 Sept 2026 | 03:56 pm |
 | 105 | [Dominant Pairs](./GeeksForGeeks/Easy/Dominant%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | Easy | 16 Sept 2026 | 01:10 am |
+| 106 | [Min Edge Reversals for Path](./GeeksForGeeks/Medium/Min%20Edge%20Reversals%20for%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-edges/1) | Medium | 17 Sept 2026 | 01:18 am |
