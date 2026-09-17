@@ -121,20 +121,22 @@
     "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true,
     "GeeksForGeeks_Visit_Leaves_with_Budget": true,
     "GeeksForGeeks_Dominant_Pairs": true,
-    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true
+    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
+    "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true
   },
-  "totalSolved": 106,
+  "totalSolved": 107,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 61,
+    "medium": 62,
     "hard": 19,
     "basic": 5
   },
   "todayProblems": [
-    "Min Edge Reversals for Path"
+    "Min Edge Reversals for Path",
+    "Find Two Non-overlapping Sub-arrays Each With Target Sum"
   ],
   "currentStreak": 4,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-17",
   "maxStreak": 34,
   "activityHistory": {
@@ -191,6 +193,6 @@
     "2026-09-14": 1,
     "2026-09-15": 3,
     "2026-09-16": 1,
-    "2026-09-17": 1
+    "2026-09-17": 2
   }
 }
