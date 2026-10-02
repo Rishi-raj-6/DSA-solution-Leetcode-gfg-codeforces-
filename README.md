@@ -108,3 +108,4 @@
 | 106 | [Min Edge Reversals for Path](./GeeksForGeeks/Medium/Min%20Edge%20Reversals%20for%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-edges/1) | Medium | 17 Sept 2026 | 01:18 am |
 | 107 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./LeetCode/Medium/Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 17 Sept 2026 | 10:57 pm |
 | 108 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 04:43 pm |
+| 109 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 05:10 pm |
