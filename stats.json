@@ -125,22 +125,22 @@
     "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Generate_Parentheses": true,
-    "GeeksForGeeks_Lexicographically_Smallest_Rotation": true
+    "GeeksForGeeks_Lexicographically_Smallest_Rotation": true,
+    "LeetCode_Longest_Valid_Parentheses": true
   },
-  "totalSolved": 110,
+  "totalSolved": 111,
   "difficultyCounts": {
     "easy": 22,
     "medium": 63,
-    "hard": 20,
+    "hard": 21,
     "basic": 5
   },
   "todayProblems": [
-    "Generate Parentheses",
-    "Lexicographically Smallest Rotation"
+    "Longest Valid Parentheses"
   ],
-  "currentStreak": 2,
-  "todayCount": 2,
-  "lastSyncDate": "2026-10-02",
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-03",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -198,6 +198,7 @@
     "2026-09-16": 1,
     "2026-09-17": 2,
     "2026-10-01": 1,
-    "2026-10-02": 2
+    "2026-10-02": 2,
+    "2026-10-03": 1
   }
 }
