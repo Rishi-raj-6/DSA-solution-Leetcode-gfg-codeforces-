@@ -112,3 +112,4 @@
 | 110 | [Lexicographically Smallest Rotation](./GeeksForGeeks/Hard/Lexicographically%20Smallest%20Rotation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lexicographically-smallest-string--151951/1) | Hard | 02 Oct 2026 | 06:03 pm |
 | 111 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 08:26 pm |
 | 112 | [Swap Two Numbers](./GeeksForGeeks/Basic/Swap%20Two%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | Basic | 06 Oct 2026 | 01:11 am |
+| 113 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 07:21 pm |

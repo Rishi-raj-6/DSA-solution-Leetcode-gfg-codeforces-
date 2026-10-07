@@ -127,21 +127,22 @@
     "LeetCode_Generate_Parentheses": true,
     "GeeksForGeeks_Lexicographically_Smallest_Rotation": true,
     "LeetCode_Longest_Valid_Parentheses": true,
-    "GeeksForGeeks_Swap_Two_Numbers": true
+    "GeeksForGeeks_Swap_Two_Numbers": true,
+    "LeetCode_Remove_Invalid_Parentheses": true
   },
-  "totalSolved": 112,
+  "totalSolved": 113,
   "difficultyCounts": {
     "easy": 22,
     "medium": 63,
-    "hard": 21,
+    "hard": 22,
     "basic": 6
   },
   "todayProblems": [
-    "Swap Two Numbers"
+    "Remove Invalid Parentheses"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-06",
+  "lastSyncDate": "2026-10-07",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -201,6 +202,7 @@
     "2026-10-01": 1,
     "2026-10-02": 2,
     "2026-10-03": 1,
-    "2026-10-06": 1
+    "2026-10-06": 1,
+    "2026-10-07": 1
   }
 }
