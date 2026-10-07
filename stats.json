@@ -128,20 +128,22 @@
     "GeeksForGeeks_Lexicographically_Smallest_Rotation": true,
     "LeetCode_Longest_Valid_Parentheses": true,
     "GeeksForGeeks_Swap_Two_Numbers": true,
-    "LeetCode_Remove_Invalid_Parentheses": true
+    "LeetCode_Remove_Invalid_Parentheses": true,
+    "GeeksForGeeks_Max_Path_Sum_Between_Two_Leaves": true
   },
-  "totalSolved": 113,
+  "totalSolved": 114,
   "difficultyCounts": {
     "easy": 22,
     "medium": 63,
-    "hard": 22,
+    "hard": 23,
     "basic": 6
   },
   "todayProblems": [
-    "Remove Invalid Parentheses"
+    "Remove Invalid Parentheses",
+    "Max Path Sum Between Two Leaves"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-07",
   "maxStreak": 34,
   "activityHistory": {
@@ -203,6 +205,6 @@
     "2026-10-02": 2,
     "2026-10-03": 1,
     "2026-10-06": 1,
-    "2026-10-07": 1
+    "2026-10-07": 2
   }
 }

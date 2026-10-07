@@ -113,3 +113,4 @@
 | 111 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 08:26 pm |
 | 112 | [Swap Two Numbers](./GeeksForGeeks/Basic/Swap%20Two%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | Basic | 06 Oct 2026 | 01:11 am |
 | 113 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 07:21 pm |
+| 114 | [Max Path Sum Between Two Leaves](./GeeksForGeeks/Hard/Max%20Path%20Sum%20Between%20Two%20Leaves) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-path-sum/1) | Hard | 07 Oct 2026 | 07:59 pm |
