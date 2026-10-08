@@ -114,3 +114,4 @@
 | 112 | [Swap Two Numbers](./GeeksForGeeks/Basic/Swap%20Two%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | Basic | 06 Oct 2026 | 01:11 am |
 | 113 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 07:21 pm |
 | 114 | [Max Path Sum Between Two Leaves](./GeeksForGeeks/Hard/Max%20Path%20Sum%20Between%20Two%20Leaves) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-path-sum/1) | Hard | 07 Oct 2026 | 07:59 pm |
+| 115 | [Maximum Frequency with K Increments](./GeeksForGeeks/Medium/Maximum%20Frequency%20with%20K%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) | Medium | 08 Oct 2026 | 11:43 pm |
