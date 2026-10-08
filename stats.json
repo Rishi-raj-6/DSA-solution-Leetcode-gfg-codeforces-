@@ -130,21 +130,22 @@
     "GeeksForGeeks_Swap_Two_Numbers": true,
     "LeetCode_Remove_Invalid_Parentheses": true,
     "GeeksForGeeks_Max_Path_Sum_Between_Two_Leaves": true,
-    "GeeksForGeeks_Maximum_Frequency_with_K_Increments": true
+    "GeeksForGeeks_Maximum_Frequency_with_K_Increments": true,
+    "LeetCode_Remove_Outermost_Parentheses": true
   },
-  "totalSolved": 115,
+  "totalSolved": 116,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 64,
     "hard": 23,
     "basic": 6
   },
   "todayProblems": [
-    "Maximum Frequency with K Increments"
+    "Remove Outermost Parentheses"
   ],
-  "currentStreak": 3,
+  "currentStreak": 4,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-08",
+  "lastSyncDate": "2026-10-09",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -206,6 +207,7 @@
     "2026-10-03": 1,
     "2026-10-06": 1,
     "2026-10-07": 2,
-    "2026-10-08": 1
+    "2026-10-08": 1,
+    "2026-10-09": 1
   }
 }
