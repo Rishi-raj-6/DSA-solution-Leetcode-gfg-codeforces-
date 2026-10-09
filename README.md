@@ -117,3 +117,4 @@
 | 115 | [Maximum Frequency with K Increments](./GeeksForGeeks/Medium/Maximum%20Frequency%20with%20K%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) | Medium | 08 Oct 2026 | 11:43 pm |
 | 116 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 09 Oct 2026 | 01:05 am |
 | 117 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 09 Oct 2026 | 09:41 am |
+| 118 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 09 Oct 2026 | 11:23 am |
