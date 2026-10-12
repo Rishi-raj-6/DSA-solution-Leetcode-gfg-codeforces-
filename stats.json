@@ -133,23 +133,22 @@
     "GeeksForGeeks_Maximum_Frequency_with_K_Increments": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_Minimum_Insertions_to_Balance_a_Parentheses_String": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares": true
   },
-  "totalSolved": 118,
+  "totalSolved": 119,
   "difficultyCounts": {
     "easy": 23,
     "medium": 66,
-    "hard": 23,
+    "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Remove Outermost Parentheses",
-    "Minimum Insertions to Balance a Parentheses String",
-    "3Sum"
+    "Apply Operations on Array to Maximize Sum of Squares"
   ],
-  "currentStreak": 4,
-  "todayCount": 3,
-  "lastSyncDate": "2026-10-09",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-13",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -212,6 +211,7 @@
     "2026-10-06": 1,
     "2026-10-07": 2,
     "2026-10-08": 1,
-    "2026-10-09": 3
+    "2026-10-09": 3,
+    "2026-10-13": 1
   }
 }
