@@ -120,3 +120,4 @@
 | 118 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 09 Oct 2026 | 11:23 am |
 | 119 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/Hard/Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 13 Oct 2026 | 12:30 am |
 | 120 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 10:22 pm |
+| 121 | [Roll Characters of String](./GeeksForGeeks/Medium/Roll%20Characters%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) | Medium | 14 Oct 2026 | 10:55 pm |
