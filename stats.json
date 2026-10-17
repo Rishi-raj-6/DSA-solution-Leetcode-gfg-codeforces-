@@ -138,22 +138,22 @@
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "GeeksForGeeks_Roll_Characters_of_String": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
-    "GeeksForGeeks_Maximum_Without_3_Consecutive_Set_Bits": true
+    "GeeksForGeeks_Maximum_Without_3_Consecutive_Set_Bits": true,
+    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true
   },
-  "totalSolved": 123,
+  "totalSolved": 124,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 69,
+    "medium": 70,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Subarrays Distinct Element Sum of Squares I",
-    "Maximum Without 3 Consecutive Set Bits"
+    "Minimum Swaps to Sort by Digit Sum"
   ],
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-10-15",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-17",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -219,6 +219,7 @@
     "2026-10-09": 3,
     "2026-10-13": 1,
     "2026-10-14": 2,
-    "2026-10-15": 2
+    "2026-10-15": 2,
+    "2026-10-17": 1
   }
 }
