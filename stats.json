@@ -140,20 +140,22 @@
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "GeeksForGeeks_Maximum_Without_3_Consecutive_Set_Bits": true,
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
-    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true
+    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true,
+    "GeeksForGeeks_Selection_Sort": true
   },
-  "totalSolved": 125,
+  "totalSolved": 126,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 71,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Minimum Operations to Sort a Permutation"
+    "Minimum Operations to Sort a Permutation",
+    "Selection Sort"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-22",
   "maxStreak": 34,
   "activityHistory": {
@@ -222,6 +224,6 @@
     "2026-10-14": 2,
     "2026-10-15": 2,
     "2026-10-17": 1,
-    "2026-10-22": 1
+    "2026-10-22": 2
   }
 }

@@ -125,3 +125,4 @@
 | 123 | [Maximum Without 3 Consecutive Set Bits](./GeeksForGeeks/Medium/Maximum%20Without%203%20Consecutive%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1) | Medium | 15 Oct 2026 | 11:44 pm |
 | 124 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 17 Oct 2026 | 06:55 pm |
 | 125 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 11:17 pm |
+| 126 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 22 Oct 2026 | 11:54 pm |
