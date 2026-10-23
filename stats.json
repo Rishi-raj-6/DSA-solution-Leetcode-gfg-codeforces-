@@ -142,21 +142,22 @@
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
     "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true,
     "GeeksForGeeks_Selection_Sort": true,
-    "GeeksForGeeks_Bubble_Sort": true
+    "GeeksForGeeks_Bubble_Sort": true,
+    "LeetCode_Maximum_K_to_Sort_a_Permutation": true
   },
-  "totalSolved": 127,
+  "totalSolved": 128,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 71,
+    "medium": 72,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Bubble Sort"
+    "Maximum K to Sort a Permutation"
   ],
-  "currentStreak": 2,
+  "currentStreak": 3,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-23",
+  "lastSyncDate": "2026-10-24",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -225,6 +226,7 @@
     "2026-10-15": 2,
     "2026-10-17": 1,
     "2026-10-22": 2,
-    "2026-10-23": 1
+    "2026-10-23": 1,
+    "2026-10-24": 1
   }
 }
