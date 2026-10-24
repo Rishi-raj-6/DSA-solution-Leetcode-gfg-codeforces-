@@ -128,3 +128,4 @@
 | 126 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 22 Oct 2026 | 11:54 pm |
 | 127 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 23 Oct 2026 | 12:46 am |
 | 128 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 24 Oct 2026 | 01:39 am |
+| 129 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 05:00 pm |
