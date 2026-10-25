@@ -145,20 +145,22 @@
     "GeeksForGeeks_Bubble_Sort": true,
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
     "LeetCode_Count_Days_Spent_Together": true,
-    "LeetCode_Single_Number": true
+    "LeetCode_Single_Number": true,
+    "LeetCode_Missing_Number": true
   },
-  "totalSolved": 130,
+  "totalSolved": 131,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 72,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Single Number"
+    "Single Number",
+    "Missing Number"
   ],
   "currentStreak": 4,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-25",
   "maxStreak": 34,
   "activityHistory": {
@@ -230,6 +232,6 @@
     "2026-10-22": 2,
     "2026-10-23": 1,
     "2026-10-24": 2,
-    "2026-10-25": 1
+    "2026-10-25": 2
   }
 }

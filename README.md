@@ -130,3 +130,4 @@
 | 128 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 24 Oct 2026 | 01:39 am |
 | 129 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 05:00 pm |
 | 130 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 25 Oct 2026 | 03:25 pm |
+| 131 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 25 Oct 2026 | 03:59 pm |
