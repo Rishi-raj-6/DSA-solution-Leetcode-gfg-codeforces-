@@ -144,22 +144,22 @@
     "GeeksForGeeks_Selection_Sort": true,
     "GeeksForGeeks_Bubble_Sort": true,
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
-    "LeetCode_Count_Days_Spent_Together": true
+    "LeetCode_Count_Days_Spent_Together": true,
+    "LeetCode_Single_Number": true
   },
-  "totalSolved": 129,
+  "totalSolved": 130,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 72,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Maximum K to Sort a Permutation",
-    "Count Days Spent Together"
+    "Single Number"
   ],
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-10-24",
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-25",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -229,6 +229,7 @@
     "2026-10-17": 1,
     "2026-10-22": 2,
     "2026-10-23": 1,
-    "2026-10-24": 2
+    "2026-10-24": 2,
+    "2026-10-25": 1
   }
 }
