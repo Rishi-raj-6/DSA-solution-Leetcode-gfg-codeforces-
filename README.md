@@ -132,3 +132,4 @@
 | 130 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 25 Oct 2026 | 03:25 pm |
 | 131 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 25 Oct 2026 | 03:59 pm |
 | 132 | [Single Number III](./LeetCode/Medium/Single%20Number%20III) | [LeetCode](https://leetcode.com/problems/single-number-iii/) | Medium | 25 Oct 2026 | 05:10 pm |
+| 133 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 25 Oct 2026 | 05:13 pm |
