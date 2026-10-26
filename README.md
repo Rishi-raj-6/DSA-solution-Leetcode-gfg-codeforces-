@@ -134,3 +134,4 @@
 | 132 | [Single Number III](./LeetCode/Medium/Single%20Number%20III) | [LeetCode](https://leetcode.com/problems/single-number-iii/) | Medium | 25 Oct 2026 | 05:10 pm |
 | 133 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 25 Oct 2026 | 05:13 pm |
 | 134 | [XOR Operation in an Array](./LeetCode/Easy/XOR%20Operation%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | 25 Oct 2026 | 05:29 pm |
+| 135 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 26 Oct 2026 | 01:51 pm |

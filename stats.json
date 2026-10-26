@@ -149,25 +149,22 @@
     "LeetCode_Missing_Number": true,
     "LeetCode_Single_Number_III": true,
     "LeetCode_Number_of_1_Bits": true,
-    "LeetCode_XOR_Operation_in_an_Array": true
+    "LeetCode_XOR_Operation_in_an_Array": true,
+    "LeetCode_Subsets": true
   },
-  "totalSolved": 134,
+  "totalSolved": 135,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 73,
+    "medium": 74,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Single Number",
-    "Missing Number",
-    "Single Number III",
-    "Number of 1 Bits",
-    "XOR Operation in an Array"
+    "Subsets"
   ],
-  "currentStreak": 4,
-  "todayCount": 5,
-  "lastSyncDate": "2026-10-25",
+  "currentStreak": 5,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-26",
   "maxStreak": 34,
   "activityHistory": {
     "2026-06-23": 2,
@@ -238,6 +235,7 @@
     "2026-10-22": 2,
     "2026-10-23": 1,
     "2026-10-24": 2,
-    "2026-10-25": 5
+    "2026-10-25": 5,
+    "2026-10-26": 1
   }
 }
