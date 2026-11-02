@@ -136,3 +136,4 @@
 | 134 | [XOR Operation in an Array](./LeetCode/Easy/XOR%20Operation%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | 25 Oct 2026 | 05:29 pm |
 | 135 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 26 Oct 2026 | 01:51 pm |
 | 136 | [Counting Bits](./LeetCode/Easy/Counting%20Bits) | [LeetCode](https://leetcode.com/problems/counting-bits/) | Easy | 02 Nov 2026 | 12:04 pm |
+| 137 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 02 Nov 2026 | 01:15 pm |

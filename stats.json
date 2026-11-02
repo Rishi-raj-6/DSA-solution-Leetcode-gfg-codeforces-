@@ -151,20 +151,22 @@
     "LeetCode_Number_of_1_Bits": true,
     "LeetCode_XOR_Operation_in_an_Array": true,
     "LeetCode_Subsets": true,
-    "LeetCode_Counting_Bits": true
+    "LeetCode_Counting_Bits": true,
+    "LeetCode_Power_of_Two": true
   },
-  "totalSolved": 136,
+  "totalSolved": 137,
   "difficultyCounts": {
-    "easy": 32,
+    "easy": 33,
     "medium": 74,
     "hard": 24,
     "basic": 6
   },
   "todayProblems": [
-    "Counting Bits"
+    "Counting Bits",
+    "Power of Two"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-11-02",
   "maxStreak": 34,
   "activityHistory": {
@@ -238,6 +240,6 @@
     "2026-10-24": 2,
     "2026-10-25": 5,
     "2026-10-26": 1,
-    "2026-11-02": 1
+    "2026-11-02": 2
   }
 }
